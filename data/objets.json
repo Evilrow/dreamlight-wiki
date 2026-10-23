@@ -1,0 +1,3906 @@
+[
+  {
+    "nom": "Asperge",
+    "type": "Légume",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 133,
+    "details": "Temps de pousse : 2h15 ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Aubergine",
+    "type": "Légume",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 308,
+    "details": "Temps de pousse : 3h ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Carotte",
+    "type": "Légume",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": 44,
+    "details": "Temps de pousse : 15min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Citrouille",
+    "type": "Légume",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 664,
+    "details": "Temps de pousse : 4h ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Concombre",
+    "type": "Légume",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 159,
+    "details": "Temps de pousse : 1h15 ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Courgette",
+    "type": "Légume",
+    "ou": [
+      "Plateau ensoleillé"
+    ],
+    "prix": 52,
+    "details": "Temps de pousse : 40min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Épinards",
+    "type": "Légume",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": 41,
+    "details": "Temps de pousse : 1h ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Laitue",
+    "type": "Légume",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": 8,
+    "details": "Temps de pousse : 3min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Oignon",
+    "type": "Légume",
+    "ou": [
+      "Forêt du Courage"
+    ],
+    "prix": 170,
+    "details": "Temps de pousse : 1h15 ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Okra",
+    "type": "Légume",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": 114,
+    "details": "Temps de pousse : 2h ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Piment",
+    "type": "Légume",
+    "ou": [
+      "Plateau ensoleillé"
+    ],
+    "prix": 78,
+    "details": "Temps de pousse : 45min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Poireau",
+    "type": "Légume",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 309,
+    "details": "Temps de pousse : 2h ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Poivron",
+    "type": "Légume",
+    "ou": [
+      "Forêt du Courage"
+    ],
+    "prix": 33,
+    "details": "Temps de pousse : 15min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Pomme de terre",
+    "type": "Légume",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 126,
+    "details": "Temps de pousse : 35min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Tomate",
+    "type": "Légume",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 22,
+    "details": "Temps de pousse : 25min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Bambou",
+    "type": "Légume",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 40,
+    "details": null,
+    "extension": "rift"
+  },
+  {
+    "nom": "Brocoli",
+    "type": "Légume",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 15,
+    "details": "Temps de pousse : 40min",
+    "extension": "rift"
+  },
+  {
+    "nom": "Céleri",
+    "type": "Légume",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – La Cour",
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 65,
+    "details": "Temps de pousse : 10min",
+    "extension": "rift"
+  },
+  {
+    "nom": "Chou",
+    "type": "Légume",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 25,
+    "details": "Temps de pousse : 1h",
+    "extension": "rift"
+  },
+  {
+    "nom": "Haricots",
+    "type": "Légume",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 49,
+    "details": "Temps de pousse : 1h",
+    "extension": "rift"
+  },
+  {
+    "nom": "Igname",
+    "type": "Légume",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – La Cour",
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 36,
+    "details": "Temps de pousse : 15min",
+    "extension": "rift"
+  },
+  {
+    "nom": "Lentilles corail",
+    "type": "Légume",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 15,
+    "details": "Temps de pousse : 2h",
+    "extension": "rift"
+  },
+  {
+    "nom": "Navet",
+    "type": "Légume",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 18,
+    "details": "Temps de pousse : 4h",
+    "extension": "rift"
+  },
+  {
+    "nom": "Yuccarina",
+    "type": "Légume",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 119,
+    "details": "Temps de pousse : 1h15",
+    "extension": "rift"
+  },
+  {
+    "nom": "Chou de Bruxelles",
+    "type": "Légume",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 30,
+    "details": "Temps de pousse : 30min",
+    "extension": "vale"
+  },
+  {
+    "nom": "Chou-fleur",
+    "type": "Légume",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 25,
+    "details": "Temps de pousse : 10min",
+    "extension": "vale"
+  },
+  {
+    "nom": "Courgerond",
+    "type": "Légume",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 41,
+    "details": "Temps de pousse : 30min",
+    "extension": "vale"
+  },
+  {
+    "nom": "Haricots verts",
+    "type": "Légume",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 20,
+    "details": "Temps de pousse : 4h",
+    "extension": "vale"
+  },
+  {
+    "nom": "Porcinis",
+    "type": "Légume",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 55,
+    "details": null,
+    "extension": "vale"
+  },
+  {
+    "nom": "Radicchio",
+    "type": "Légume",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 127,
+    "details": "Temps de pousse : 1h",
+    "extension": "vale"
+  },
+  {
+    "nom": "Radis",
+    "type": "Légume",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 133,
+    "details": "Temps de pousse : 1h45",
+    "extension": "vale"
+  },
+  {
+    "nom": "Banane",
+    "type": "Fruit",
+    "ou": [
+      "Prairie tranquille",
+      "Plage enchantée"
+    ],
+    "prix": 29,
+    "details": "Temps de pousse : 23min",
+    "extension": "base"
+  },
+  {
+    "nom": "Cerise",
+    "type": "Fruit",
+    "ou": [
+      "Plateau ensoleillé",
+      "Hauteurs glacées"
+    ],
+    "prix": 42,
+    "details": "Temps de pousse : 33min",
+    "extension": "base"
+  },
+  {
+    "nom": "Citron",
+    "type": "Fruit",
+    "ou": [
+      "Forêt du Courage",
+      "Bayou de la Confiance"
+    ],
+    "prix": 33,
+    "details": "Temps de pousse : 27min",
+    "extension": "base"
+  },
+  {
+    "nom": "Fève de cacao",
+    "type": "Fruit",
+    "ou": [
+      "Bayou de la Confiance",
+      "Plateau ensoleillé"
+    ],
+    "prix": 38,
+    "details": "Temps de pousse : 30min",
+    "extension": "base"
+  },
+  {
+    "nom": "Framboise",
+    "type": "Fruit",
+    "ou": [
+      "Esplanade",
+      "Prairie tranquille"
+    ],
+    "prix": 21,
+    "details": "Temps de pousse : 17min",
+    "extension": "base"
+  },
+  {
+    "nom": "Fruit de Dreamlight",
+    "type": "Fruit",
+    "ou": [
+      "Bayou de la Confiance",
+      "Hauteurs glacées",
+      "Plateau ensoleillé",
+      "Terres oubliées"
+    ],
+    "prix": 40,
+    "details": "Temps de repousse : 24h",
+    "extension": "base"
+  },
+  {
+    "nom": "Grain de café",
+    "type": "Fruit",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": 36,
+    "details": "Temps de pousse : 40min",
+    "extension": "base"
+  },
+  {
+    "nom": "Groseille",
+    "type": "Fruit",
+    "ou": [
+      "Hauteurs glacées",
+      "Terres oubliées"
+    ],
+    "prix": 50,
+    "details": "Temps de pousse : 40min",
+    "extension": "base"
+  },
+  {
+    "nom": "Myrtille",
+    "type": "Fruit",
+    "ou": [
+      "Forêt du Courage",
+      "Plage enchantée"
+    ],
+    "prix": 29,
+    "details": "Temps de pousse : 23min",
+    "extension": "base"
+  },
+  {
+    "nom": "Noix de coco",
+    "type": "Fruit",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 42,
+    "details": "Temps de pousse : 33min",
+    "extension": "base"
+  },
+  {
+    "nom": "Pomme",
+    "type": "Fruit",
+    "ou": [
+      "Esplanade",
+      "Terres oubliées"
+    ],
+    "prix": 25,
+    "details": "Temps de pousse : 20min",
+    "extension": "base"
+  },
+  {
+    "nom": "Amandes",
+    "type": "Fruit",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 42,
+    "details": "Temps de pousse : 50min",
+    "extension": "rift"
+  },
+  {
+    "nom": "Ananas",
+    "type": "Fruit",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 53,
+    "details": "Temps de pousse : 3h",
+    "extension": "rift"
+  },
+  {
+    "nom": "Cactibaies",
+    "type": "Fruit",
+    "ou": [
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 34,
+    "details": "Temps de pousse : 45min",
+    "extension": "rift"
+  },
+  {
+    "nom": "Dattes",
+    "type": "Fruit",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 29,
+    "details": "Temps de pousse : 55min",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fantasmangue",
+    "type": "Fruit",
+    "ou": [
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 50,
+    "details": "Temps de pousse : 1h",
+    "extension": "rift"
+  },
+  {
+    "nom": "Figues cosmiques",
+    "type": "Fruit",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – La Cour",
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 22,
+    "details": "Temps de pousse : 25min",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fraise",
+    "type": "Fruit",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – La Cour",
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 23,
+    "details": "Temps de pousse : 30min",
+    "extension": "rift"
+  },
+  {
+    "nom": "Melon",
+    "type": "Fruit",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 93,
+    "details": "Temps de pousse : 30min",
+    "extension": "rift"
+  },
+  {
+    "nom": "Poires imbriquées",
+    "type": "Fruit",
+    "ou": [
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 25,
+    "details": "Temps de pousse : 35min",
+    "extension": "rift"
+  },
+  {
+    "nom": "Raisin",
+    "type": "Fruit",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – La Cour",
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 9,
+    "details": "Temps de pousse : 20min",
+    "extension": "rift"
+  },
+  {
+    "nom": "Baies acidulées",
+    "type": "Fruit",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 40,
+    "details": "Temps de pousse : 30min",
+    "extension": "vale"
+  },
+  {
+    "nom": "Caviar vert",
+    "type": "Fruit",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 20,
+    "details": "Pêché hors des cercles (Reliure)",
+    "extension": "vale"
+  },
+  {
+    "nom": "Fraises spirales",
+    "type": "Fruit",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 50,
+    "details": "Temps de pousse : 40min",
+    "extension": "vale"
+  },
+  {
+    "nom": "Kaki",
+    "type": "Fruit",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 25,
+    "details": "Temps de pousse : 25min",
+    "extension": "vale"
+  },
+  {
+    "nom": "Melon miel",
+    "type": "Fruit",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 125,
+    "details": "Temps de pousse : 45min",
+    "extension": "vale"
+  },
+  {
+    "nom": "Physalis",
+    "type": "Fruit",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 55,
+    "details": null,
+    "extension": "vale"
+  },
+  {
+    "nom": "Pomme d'or",
+    "type": "Fruit",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 110,
+    "details": null,
+    "extension": "vale"
+  },
+  {
+    "nom": "Rhubarbe",
+    "type": "Fruit",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 22,
+    "details": "Temps de pousse : 3h",
+    "extension": "vale"
+  },
+  {
+    "nom": "Blé",
+    "type": "Céréale",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": 2,
+    "details": "Temps de pousse : 1min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Canne à sucre",
+    "type": "Céréale",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 19,
+    "details": "Temps de pousse : 7min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Colza",
+    "type": "Céréale",
+    "ou": [
+      "Forêt du Courage"
+    ],
+    "prix": 109,
+    "details": "Temps de pousse : 35min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Maïs",
+    "type": "Céréale",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 16,
+    "details": "Temps de pousse : 12min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Riz",
+    "type": "Céréale",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": 61,
+    "details": "Temps de pousse : 50min ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Soja",
+    "type": "Céréale",
+    "ou": [
+      "Plateau ensoleillé"
+    ],
+    "prix": 69,
+    "details": "Temps de pousse : 1h30 ; graines vendues à l'étal de Dingo",
+    "extension": "base"
+  },
+  {
+    "nom": "Avoine",
+    "type": "Céréale",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 99,
+    "details": "Temps de pousse : 2h",
+    "extension": "vale"
+  },
+  {
+    "nom": "Grain élyséen",
+    "type": "Céréale",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 130,
+    "details": null,
+    "extension": "vale"
+  },
+  {
+    "nom": "Orge",
+    "type": "Céréale",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 15,
+    "details": "Temps de pousse : 15min",
+    "extension": "vale"
+  },
+  {
+    "nom": "Seigle féerique",
+    "type": "Céréale",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 62,
+    "details": "Temps de pousse : 1h15",
+    "extension": "vale"
+  },
+  {
+    "nom": "Ail",
+    "type": "Épice",
+    "ou": [
+      "Forêt du Courage"
+    ],
+    "prix": 60,
+    "details": null,
+    "extension": "base"
+  },
+  {
+    "nom": "Basilic",
+    "type": "Épice",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": 25,
+    "details": null,
+    "extension": "base"
+  },
+  {
+    "nom": "Champignon",
+    "type": "Épice",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": 30,
+    "details": null,
+    "extension": "base"
+  },
+  {
+    "nom": "Gingembre",
+    "type": "Épice",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 100,
+    "details": null,
+    "extension": "base"
+  },
+  {
+    "nom": "Menthe",
+    "type": "Épice",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 80,
+    "details": null,
+    "extension": "base"
+  },
+  {
+    "nom": "Origan",
+    "type": "Épice",
+    "ou": [
+      "Esplanade"
+    ],
+    "prix": 20,
+    "details": null,
+    "extension": "base"
+  },
+  {
+    "nom": "Vanille",
+    "type": "Épice",
+    "ou": [
+      "Plateau ensoleillé"
+    ],
+    "prix": 60,
+    "details": null,
+    "extension": "base"
+  },
+  {
+    "nom": "Agave",
+    "type": "Épice",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 25,
+    "details": null,
+    "extension": "rift"
+  },
+  {
+    "nom": "Cannelle",
+    "type": "Épice",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon",
+      "Reliure"
+    ],
+    "prix": 30,
+    "details": null,
+    "extension": "rift"
+  },
+  {
+    "nom": "Cumin",
+    "type": "Épice",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – La Cour",
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 15,
+    "details": null,
+    "extension": "rift"
+  },
+  {
+    "nom": "Majesthé",
+    "type": "Épice",
+    "ou": [
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 30,
+    "details": null,
+    "extension": "rift"
+  },
+  {
+    "nom": "Paprika",
+    "type": "Épice",
+    "ou": [
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 50,
+    "details": null,
+    "extension": "rift"
+  },
+  {
+    "nom": "Ambroisie",
+    "type": "Épice",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 70,
+    "details": null,
+    "extension": "vale"
+  },
+  {
+    "nom": "Cristal de sel",
+    "type": "Épice",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 20,
+    "details": "Pêché hors des cercles (Comté des Contes)",
+    "extension": "vale"
+  },
+  {
+    "nom": "Épice foudroyante",
+    "type": "Épice",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 65,
+    "details": null,
+    "extension": "vale"
+  },
+  {
+    "nom": "Escargot trompette",
+    "type": "Épice",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 60,
+    "details": null,
+    "extension": "vale"
+  },
+  {
+    "nom": "Noix de muscade",
+    "type": "Épice",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 45,
+    "details": "À planter",
+    "extension": "vale"
+  },
+  {
+    "nom": "Poivre noir",
+    "type": "Épice",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 83,
+    "details": "À planter",
+    "extension": "vale"
+  },
+  {
+    "nom": "Huître",
+    "type": "Fruit de mer",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 250,
+    "details": null,
+    "extension": "base"
+  },
+  {
+    "nom": "Palourde",
+    "type": "Fruit de mer",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 45,
+    "details": null,
+    "extension": "base"
+  },
+  {
+    "nom": "Pétoncle",
+    "type": "Fruit de mer",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 50,
+    "details": null,
+    "extension": "base"
+  },
+  {
+    "nom": "Gibier",
+    "type": "Produit d'étal",
+    "ou": [
+      "Dunes scintillantes – Le Désert (stand de Gaston)"
+    ],
+    "prix": 1000,
+    "details": null,
+    "extension": "rift"
+  },
+  {
+    "nom": "Porc",
+    "type": "Produit d'étal",
+    "ou": [
+      "Dunes scintillantes – Le Désert (stand de Gaston)"
+    ],
+    "prix": 250,
+    "details": null,
+    "extension": "rift"
+  },
+  {
+    "nom": "Volaille",
+    "type": "Produit d'étal",
+    "ou": [
+      "Dunes scintillantes – Le Désert (stand de Gaston)"
+    ],
+    "prix": 500,
+    "details": null,
+    "extension": "rift"
+  },
+  {
+    "nom": "Feta feuillet",
+    "type": "Produit d'étal",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 75,
+    "details": null,
+    "extension": "vale"
+  },
+  {
+    "nom": "Graines de chia",
+    "type": "Autre",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 6,
+    "details": "À planter ; classé « protéine » par la source",
+    "extension": "vale"
+  },
+  {
+    "nom": "Œufs d'oiseau-pelle",
+    "type": "Produit d'étal",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 80,
+    "details": null,
+    "extension": "vale"
+  },
+  {
+    "nom": "Olives",
+    "type": "Autre",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 35,
+    "details": "À planter ; classé « protéine » par la source",
+    "extension": "vale"
+  },
+  {
+    "nom": "Yaourt",
+    "type": "Produit d'étal",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 120,
+    "details": null,
+    "extension": "vale"
+  },
+  {
+    "nom": "Beurre",
+    "type": "Produit d'étal",
+    "ou": [
+      "Chez Rémy (garde-manger)"
+    ],
+    "prix": null,
+    "details": "Prix d'achat au garde-manger de Chez Rémy : 190 (prix de vente non indiqué)",
+    "extension": "base"
+  },
+  {
+    "nom": "Cacahuète",
+    "type": "Produit d'étal",
+    "ou": [
+      "Chez Rémy (garde-manger)"
+    ],
+    "prix": null,
+    "details": "Prix d'achat au garde-manger de Chez Rémy : 200 (prix de vente non indiqué)",
+    "extension": "base"
+  },
+  {
+    "nom": "Fromage",
+    "type": "Produit d'étal",
+    "ou": [
+      "Chez Rémy (garde-manger)"
+    ],
+    "prix": null,
+    "details": "Prix d'achat au garde-manger de Chez Rémy : 180 (prix de vente non indiqué)",
+    "extension": "base"
+  },
+  {
+    "nom": "Glace pilée",
+    "type": "Produit d'étal",
+    "ou": [
+      "Chez Rémy (garde-manger)"
+    ],
+    "prix": null,
+    "details": "Prix d'achat au garde-manger de Chez Rémy : 150 (prix de vente non indiqué)",
+    "extension": "base"
+  },
+  {
+    "nom": "Lait",
+    "type": "Produit d'étal",
+    "ou": [
+      "Chez Rémy (garde-manger)"
+    ],
+    "prix": null,
+    "details": "Prix d'achat au garde-manger de Chez Rémy : 230 (prix de vente non indiqué)",
+    "extension": "base"
+  },
+  {
+    "nom": "Œuf",
+    "type": "Produit d'étal",
+    "ou": [
+      "Chez Rémy (garde-manger)"
+    ],
+    "prix": null,
+    "details": "Prix d'achat au garde-manger de Chez Rémy : 220 (prix de vente non indiqué)",
+    "extension": "base"
+  },
+  {
+    "nom": "Algues",
+    "type": "Autre",
+    "ou": [
+      "Partout"
+    ],
+    "prix": 20,
+    "details": "Hors remous",
+    "extension": "base"
+  },
+  {
+    "nom": "Bar",
+    "type": "Poisson",
+    "ou": [
+      "Prairie tranquille",
+      "Forêt du Courage",
+      "Plateau ensoleillé",
+      "Hauteurs glacées"
+    ],
+    "prix": 25,
+    "details": "Hors remous ou remous blancs",
+    "extension": "base"
+  },
+  {
+    "nom": "Baudroie",
+    "type": "Poisson",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 1500,
+    "details": "Remous dorés",
+    "extension": "base"
+  },
+  {
+    "nom": "Brème",
+    "type": "Poisson",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": 280,
+    "details": "Remous bleus",
+    "extension": "base"
+  },
+  {
+    "nom": "Brochet",
+    "type": "Poisson",
+    "ou": [
+      "Forêt du Courage"
+    ],
+    "prix": 800,
+    "details": "Remous dorés",
+    "extension": "base"
+  },
+  {
+    "nom": "Calamar",
+    "type": "Fruit de mer",
+    "ou": [
+      "Bayou de la Confiance",
+      "Terres oubliées",
+      "Mythopie"
+    ],
+    "prix": 500,
+    "details": "Remous bleus (parfois blancs) ; Remous bleus (Mythopie)",
+    "extension": "base"
+  },
+  {
+    "nom": "Carpe",
+    "type": "Poisson",
+    "ou": [
+      "Forêt du Courage",
+      "Plateau ensoleillé"
+    ],
+    "prix": 400,
+    "details": "Remous bleus (parfois blancs)",
+    "extension": "base"
+  },
+  {
+    "nom": "Cavalos",
+    "type": "Poisson",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 650,
+    "details": "Remous bleus",
+    "extension": "base"
+  },
+  {
+    "nom": "Crabe",
+    "type": "Fruit de mer",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 600,
+    "details": "Remous bleus (parfois blancs)",
+    "extension": "base"
+  },
+  {
+    "nom": "Crevette",
+    "type": "Fruit de mer",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 300,
+    "details": "Remous bleus (parfois blancs)",
+    "extension": "base"
+  },
+  {
+    "nom": "Doré jaune",
+    "type": "Poisson",
+    "ou": [
+      "Plateau ensoleillé"
+    ],
+    "prix": 1100,
+    "details": "Remous dorés",
+    "extension": "base"
+  },
+  {
+    "nom": "Espadon",
+    "type": "Poisson",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 700,
+    "details": "Remous dorés",
+    "extension": "base"
+  },
+  {
+    "nom": "Esturgeon blanc",
+    "type": "Poisson",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 1200,
+    "details": "Remous dorés",
+    "extension": "base"
+  },
+  {
+    "nom": "Fugu",
+    "type": "Poisson",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 900,
+    "details": "Remous dorés ; par temps de pluie",
+    "extension": "base"
+  },
+  {
+    "nom": "Hareng",
+    "type": "Poisson",
+    "ou": [
+      "Plage enchantée",
+      "Bayou de la Confiance"
+    ],
+    "prix": 65,
+    "details": "Remous blancs",
+    "extension": "base"
+  },
+  {
+    "nom": "Homard",
+    "type": "Fruit de mer",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": 950,
+    "details": "Remous dorés",
+    "extension": "base"
+  },
+  {
+    "nom": "Morue",
+    "type": "Poisson",
+    "ou": [
+      "Plage enchantée",
+      "Bayou de la Confiance",
+      "Terres oubliées",
+      "Comté des Contes"
+    ],
+    "prix": 35,
+    "details": "Hors remous ou remous blancs ; Hors remous (Comté des Contes)",
+    "extension": "base"
+  },
+  {
+    "nom": "Perche",
+    "type": "Poisson",
+    "ou": [
+      "Forêt du Courage",
+      "Plateau ensoleillé"
+    ],
+    "prix": 80,
+    "details": "Remous bleus (parfois blancs)",
+    "extension": "base"
+  },
+  {
+    "nom": "Poisson de l'Ici et là",
+    "type": "Poisson",
+    "ou": [
+      "Partout"
+    ],
+    "prix": 1,
+    "details": "Hors remous (parfois blancs) ; 6h-10h et 18h-22h, après une quête préalable",
+    "extension": "base"
+  },
+  {
+    "nom": "Poisson-chat",
+    "type": "Poisson",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": 550,
+    "details": "Remous dorés",
+    "extension": "base"
+  },
+  {
+    "nom": "Saumon",
+    "type": "Poisson",
+    "ou": [
+      "Plateau ensoleillé",
+      "Hauteurs glacées"
+    ],
+    "prix": 150,
+    "details": "Remous blancs (parfois bleus)",
+    "extension": "base"
+  },
+  {
+    "nom": "Sole",
+    "type": "Poisson",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 200,
+    "details": "Remous blancs (parfois bleus)",
+    "extension": "base"
+  },
+  {
+    "nom": "Thazard",
+    "type": "Poisson",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 450,
+    "details": "Remous bleus ; la nuit 18h-5h",
+    "extension": "base"
+  },
+  {
+    "nom": "Thon",
+    "type": "Poisson",
+    "ou": [
+      "Bayou de la Confiance",
+      "Terres oubliées",
+      "Reliure"
+    ],
+    "prix": 95,
+    "details": "Remous blancs (parfois bleus) ; Remous bleus (Reliure)",
+    "extension": "base"
+  },
+  {
+    "nom": "Tilapia",
+    "type": "Poisson",
+    "ou": [
+      "Plateau ensoleillé",
+      "Hauteurs glacées"
+    ],
+    "prix": 600,
+    "details": "Remous bleus",
+    "extension": "base"
+  },
+  {
+    "nom": "Truite arc-en-ciel",
+    "type": "Poisson",
+    "ou": [
+      "Prairie tranquille",
+      "Forêt du Courage",
+      "Comté des Contes"
+    ],
+    "prix": 50,
+    "details": "Remous blancs ; Remous blancs (Comté des Contes)",
+    "extension": "base"
+  },
+  {
+    "nom": "Alose",
+    "type": "Poisson",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – Le Belvédère"
+    ],
+    "prix": 60,
+    "details": "Remous blancs",
+    "extension": "rift"
+  },
+  {
+    "nom": "Anguille électrique",
+    "type": "Poisson",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade"
+    ],
+    "prix": 1000,
+    "details": "Remous dorés",
+    "extension": "rift"
+  },
+  {
+    "nom": "Crevette prismatique",
+    "type": "Fruit de mer",
+    "ou": [
+      "Méandres sauvages – Le Bosquet"
+    ],
+    "prix": 1100,
+    "details": "Remous dorés",
+    "extension": "rift"
+  },
+  {
+    "nom": "Escargot de mer",
+    "type": "Fruit de mer",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – Le Belvédère"
+    ],
+    "prix": 250,
+    "details": "Remous bleus (parfois blancs)",
+    "extension": "rift"
+  },
+  {
+    "nom": "Étoile de mer bleue brillante",
+    "type": "Fruit de mer",
+    "ou": [
+      "Dunes scintillantes – L'Oasis"
+    ],
+    "prix": 875,
+    "details": "Remous dorés",
+    "extension": "rift"
+  },
+  {
+    "nom": "Jolie étoile de mer rose",
+    "type": "Fruit de mer",
+    "ou": [
+      "Dunes scintillantes – L'Oasis"
+    ],
+    "prix": 875,
+    "details": "Remous dorés",
+    "extension": "rift"
+  },
+  {
+    "nom": "Pieuvre",
+    "type": "Fruit de mer",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – Le Belvédère"
+    ],
+    "prix": 290,
+    "details": "Remous bleus (parfois blancs)",
+    "extension": "rift"
+  },
+  {
+    "nom": "Piranha",
+    "type": "Poisson",
+    "ou": [
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 1300,
+    "details": "Remous dorés",
+    "extension": "rift"
+  },
+  {
+    "nom": "Pirarucu",
+    "type": "Poisson",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 625,
+    "details": "Remous bleus",
+    "extension": "rift"
+  },
+  {
+    "nom": "Poisson des dunes",
+    "type": "Poisson",
+    "ou": [
+      "Dunes scintillantes – L'Oasis"
+    ],
+    "prix": 550,
+    "details": "Remous bleus",
+    "extension": "rift"
+  },
+  {
+    "nom": "Poisson des sables",
+    "type": "Poisson",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 30,
+    "details": "Hors remous (parfois blancs)",
+    "extension": "rift"
+  },
+  {
+    "nom": "Poisson-robot",
+    "type": "Poisson",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – Le Belvédère"
+    ],
+    "prix": 625,
+    "details": "Remous dorés",
+    "extension": "rift"
+  },
+  {
+    "nom": "Poisson-squelette",
+    "type": "Poisson",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 100,
+    "details": "Remous blancs (parfois bleus/roses)",
+    "extension": "rift"
+  },
+  {
+    "nom": "Scorpion",
+    "type": "Autre",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 425,
+    "details": "Remous bleus (roses)",
+    "extension": "rift"
+  },
+  {
+    "nom": "Ver des sables",
+    "type": "Autre",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 800,
+    "details": "Remous dorés",
+    "extension": "rift"
+  },
+  {
+    "nom": "Bar festif",
+    "type": "Poisson",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": null,
+    "details": "Événement limité : remous rouges et verts, du 18 au 31 décembre (2022, 2023)",
+    "extension": "base"
+  },
+  {
+    "nom": "Baudroie festive",
+    "type": "Poisson",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": null,
+    "details": "Événement limité : remous rouges et verts, du 18 au 31 décembre (2022, 2023)",
+    "extension": "base"
+  },
+  {
+    "nom": "Calamar festif",
+    "type": "Poisson",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": null,
+    "details": "Événement limité : remous rouges et verts, du 18 au 31 décembre (2022, 2023)",
+    "extension": "base"
+  },
+  {
+    "nom": "Fugu festif",
+    "type": "Poisson",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": null,
+    "details": "Événement limité : remous rouges et verts, du 18 au 31 décembre (2022, 2023)",
+    "extension": "base"
+  },
+  {
+    "nom": "Saumon festif",
+    "type": "Poisson",
+    "ou": [
+      "Plateau ensoleillé"
+    ],
+    "prix": null,
+    "details": "Événement limité : remous rouges et verts, du 18 au 31 décembre (2022, 2023)",
+    "extension": "base"
+  },
+  {
+    "nom": "Bernard-l'hermite à chapeau de sorcier",
+    "type": "Fruit de mer",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 800,
+    "details": "Remous orange/dorés",
+    "extension": "vale"
+  },
+  {
+    "nom": "Carpe koï",
+    "type": "Poisson",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 50,
+    "details": "Hors remous",
+    "extension": "vale"
+  },
+  {
+    "nom": "Hippocampe",
+    "type": "Poisson",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 150,
+    "details": "Remous blancs",
+    "extension": "vale"
+  },
+  {
+    "nom": "Lamproie",
+    "type": "Poisson",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 1500,
+    "details": "Remous orange/dorés",
+    "extension": "vale"
+  },
+  {
+    "nom": "Loup de mer",
+    "type": "Poisson",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 75,
+    "details": "Remous blancs",
+    "extension": "vale"
+  },
+  {
+    "nom": "Moule",
+    "type": "Fruit de mer",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 75,
+    "details": "Ramassée au sol",
+    "extension": "vale"
+  },
+  {
+    "nom": "Périophthalme stygien",
+    "type": "Poisson",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 1500,
+    "details": "Remous orange/dorés",
+    "extension": "vale"
+  },
+  {
+    "nom": "Poisson volant",
+    "type": "Poisson",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 60,
+    "details": "Hors remous",
+    "extension": "vale"
+  },
+  {
+    "nom": "Betterave",
+    "type": "Légume",
+    "ou": [
+      "Montagnes de Florespérance (étal de Dingo)"
+    ],
+    "prix": 21,
+    "details": "Graines à l'étal de Dingo, à cultiver",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Chou frisé écarlate",
+    "type": "Légume",
+    "ou": [
+      "Montagnes de Florespérance (étal de Dingo)"
+    ],
+    "prix": 29,
+    "details": "Graines à l'étal de Dingo, à cultiver",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Carambole",
+    "type": "Fruit",
+    "ou": [
+      "Clairière féerique – Chutes du Miel",
+      "Clairière féerique – Plaine des fées",
+      "Clairière féerique – Rivages de la coupe glacée"
+    ],
+    "prix": 40,
+    "details": "Buissons",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Fruit sucette",
+    "type": "Fruit",
+    "ou": [
+      "Montagnes de Florespérance (étal de Dingo)"
+    ],
+    "prix": 115,
+    "details": "Graines à l'étal de Dingo, à cultiver",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Groseilles",
+    "type": "Fruit",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 33,
+    "details": "Buissons ; nourriture préférée des oies",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Pêche à aiguilles",
+    "type": "Fruit",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 38,
+    "details": "Buissons",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Champignon bouton",
+    "type": "Autre",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 60,
+    "details": "Ramassé au sol (type exact non précisé par la source)",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Grains de café chocolat foncé",
+    "type": "Autre",
+    "ou": [
+      "Montagnes de Florespérance (étal de Dingo)"
+    ],
+    "prix": 66,
+    "details": "Graines à l'étal de Dingo, à cultiver (type exact non précisé par la source)",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Aneth",
+    "type": "Épice",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 40,
+    "details": "Ramassé au sol",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Paillettes féeriques",
+    "type": "Autre",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 80,
+    "details": "Ramassées au sol (type exact non précisé par la source)",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Blé khorasan féerique",
+    "type": "Céréale",
+    "ou": [
+      "Montagnes de Florespérance (étal de Dingo)"
+    ],
+    "prix": 107,
+    "details": "Graines à l'étal de Dingo, à cultiver",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Orge perlé",
+    "type": "Céréale",
+    "ou": [
+      "Montagnes de Florespérance (étal de Dingo)"
+    ],
+    "prix": 45,
+    "details": "Graines à l'étal de Dingo, à cultiver",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Combattant à nageoire satinée",
+    "type": "Poisson",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 450,
+    "details": "Remous bleus",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Corail de miel",
+    "type": "Fruit de mer",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 175,
+    "details": "Remous blancs",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Escargot mètre ruban",
+    "type": "Fruit de mer",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 100,
+    "details": "Remous blancs",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Oktobar",
+    "type": "Poisson",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 750,
+    "details": "Remous dorés/orange",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Poisson blanc des montagnes",
+    "type": "Poisson",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 30,
+    "details": "Remous blancs",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Poisson en gelée",
+    "type": "Poisson",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 1000,
+    "details": "Remous dorés/orange",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Poisson tigré",
+    "type": "Poisson",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 1600,
+    "details": "Remous dorés/orange",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Poisson-ballon",
+    "type": "Poisson",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 60,
+    "details": "Hors remous",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Algue rouge",
+    "type": "Matériau",
+    "ou": [
+      "Toutes les étendues d'eau"
+    ],
+    "prix": 150,
+    "details": "Pêche",
+    "extension": "base"
+  },
+  {
+    "nom": "Argile",
+    "type": "Matériau",
+    "ou": [
+      "Bayou de la Confiance",
+      "Plateau ensoleillé",
+      "Terres oubliées"
+    ],
+    "prix": 20,
+    "details": "Creuser le sol",
+    "extension": "base"
+  },
+  {
+    "nom": "Bois dur",
+    "type": "Matériau",
+    "ou": [
+      "Forêt du Courage",
+      "Bayou de la Confiance",
+      "Plateau ensoleillé",
+      "Hauteurs glacées"
+    ],
+    "prix": 10,
+    "details": "Ramasser autour des arbres",
+    "extension": "base"
+  },
+  {
+    "nom": "Bois sec",
+    "type": "Matériau",
+    "ou": [
+      "Plateau ensoleillé",
+      "Hauteurs glacées",
+      "Terres oubliées"
+    ],
+    "prix": 25,
+    "details": "Ramasser autour des arbres",
+    "extension": "base"
+  },
+  {
+    "nom": "Bois sombre",
+    "type": "Matériau",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 50,
+    "details": "Ramasser autour des arbres",
+    "extension": "base"
+  },
+  {
+    "nom": "Bois tendre",
+    "type": "Matériau",
+    "ou": [
+      "Esplanade",
+      "Prairie tranquille",
+      "Forêt du Courage",
+      "Bayou de la Confiance"
+    ],
+    "prix": 5,
+    "details": "Ramasser autour des arbres",
+    "extension": "base"
+  },
+  {
+    "nom": "Boule de neige",
+    "type": "Matériau",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 25,
+    "details": "Creuser la neige ou casser les pics de glace",
+    "extension": "base"
+  },
+  {
+    "nom": "Coton",
+    "type": "Matériau",
+    "ou": [
+      "Plateau ensoleillé (étal)"
+    ],
+    "prix": 37,
+    "details": "Graines à l'étal, récolte après 25 min",
+    "extension": "base"
+  },
+  {
+    "nom": "Cristal",
+    "type": "Matériau",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 30,
+    "details": "Miner les affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Éclat de rêve",
+    "type": "Matériau",
+    "ou": [
+      "Partout"
+    ],
+    "prix": null,
+    "details": "Retirer les épines nocturnes ou creuser les trous brillants",
+    "extension": "base"
+  },
+  {
+    "nom": "Éclat nocturne",
+    "type": "Matériau",
+    "ou": [
+      "Partout"
+    ],
+    "prix": null,
+    "details": "Retirer les épines nocturnes ou creuser les trous brillants",
+    "extension": "base"
+  },
+  {
+    "nom": "Galets",
+    "type": "Matériau",
+    "ou": [
+      "Plage enchantée",
+      "Forêt du Courage",
+      "Plateau ensoleillé",
+      "Terres oubliées"
+    ],
+    "prix": 10,
+    "details": "Creuser le sol",
+    "extension": "base"
+  },
+  {
+    "nom": "Minerai de charbon",
+    "type": "Matériau",
+    "ou": [
+      "Partout"
+    ],
+    "prix": 5,
+    "details": "Miner les affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Minerai de fer",
+    "type": "Matériau",
+    "ou": [
+      "Forêt du Courage",
+      "Bayou de la Confiance"
+    ],
+    "prix": 10,
+    "details": "Miner les affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Pépite d'or",
+    "type": "Matériau",
+    "ou": [
+      "Plateau ensoleillé",
+      "Hauteurs glacées",
+      "Terres oubliées"
+    ],
+    "prix": 20,
+    "details": "Miner les affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Pierre",
+    "type": "Matériau",
+    "ou": [
+      "Partout"
+    ],
+    "prix": 2,
+    "details": "Miner les affleurements ou rochers",
+    "extension": "base"
+  },
+  {
+    "nom": "Sable",
+    "type": "Matériau",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 8,
+    "details": "Creuser le sable ou briser les débris",
+    "extension": "base"
+  },
+  {
+    "nom": "Terre",
+    "type": "Matériau",
+    "ou": [
+      "Partout"
+    ],
+    "prix": 3,
+    "details": "Creuser le sol",
+    "extension": "base"
+  },
+  {
+    "nom": "Terre enrichie",
+    "type": "Matériau",
+    "ou": [
+      "Partout"
+    ],
+    "prix": 25,
+    "details": "Récolter des plantations",
+    "extension": "base"
+  },
+  {
+    "nom": "Cristal de vitalys",
+    "type": "Matériau",
+    "ou": [
+      "Mines de Vitalys (Plateau ensoleillé)"
+    ],
+    "prix": 12,
+    "details": "Miner les affleurements rocheux (minéral)",
+    "extension": "base"
+  },
+  {
+    "nom": "Ambre",
+    "type": "Matériau",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 30,
+    "details": "Creuser le sol",
+    "extension": "rift"
+  },
+  {
+    "nom": "Arêtes",
+    "type": "Matériau",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 20,
+    "details": "Pêche",
+    "extension": "rift"
+  },
+  {
+    "nom": "Bois tropical",
+    "type": "Matériau",
+    "ou": [
+      "Méandres sauvages – Les Prés"
+    ],
+    "prix": 40,
+    "details": "Ramasser autour des arbres",
+    "extension": "rift"
+  },
+  {
+    "nom": "Cuivre",
+    "type": "Matériau",
+    "ou": [
+      "Port antique",
+      "Dunes scintillantes",
+      "Méandres sauvages"
+    ],
+    "prix": 15,
+    "details": "Miner les affleurements rocheux",
+    "extension": "rift"
+  },
+  {
+    "nom": "Écailles",
+    "type": "Matériau",
+    "ou": [
+      "Dunes scintillantes – L'Oasis"
+    ],
+    "prix": 20,
+    "details": "Pêche hors des remous",
+    "extension": "rift"
+  },
+  {
+    "nom": "Étain",
+    "type": "Matériau",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 25,
+    "details": "Miner les affleurements rocheux",
+    "extension": "rift"
+  },
+  {
+    "nom": "Morceaux de plastique",
+    "type": "Matériau",
+    "ou": [
+      "Partout"
+    ],
+    "prix": 10,
+    "details": "Pêche",
+    "extension": "rift"
+  },
+  {
+    "nom": "Perle",
+    "type": "Matériau",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – La Cour",
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 10,
+    "details": "Creuser le sol",
+    "extension": "rift"
+  },
+  {
+    "nom": "Quartz",
+    "type": "Matériau",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – La Cour",
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 20,
+    "details": "Miner les affleurements rocheux",
+    "extension": "rift"
+  },
+  {
+    "nom": "Verre d'oasis",
+    "type": "Matériau",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 20,
+    "details": "Creuser le sol",
+    "extension": "rift"
+  },
+  {
+    "nom": "Zinc",
+    "type": "Matériau",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 30,
+    "details": "Miner les affleurements rocheux",
+    "extension": "rift"
+  },
+  {
+    "nom": "Arme brisée",
+    "type": "Matériau",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 25,
+    "details": "Creuser le sol",
+    "extension": "vale"
+  },
+  {
+    "nom": "Bois pétrifié",
+    "type": "Matériau",
+    "ou": [
+      "Reliure",
+      "Comté des Contes"
+    ],
+    "prix": 20,
+    "details": "Miner les affleurements rocheux",
+    "extension": "vale"
+  },
+  {
+    "nom": "Boue",
+    "type": "Matériau",
+    "ou": [
+      "Reliure",
+      "Comté des Contes"
+    ],
+    "prix": 10,
+    "details": "Creuser le sol",
+    "extension": "vale"
+  },
+  {
+    "nom": "Bulles féériques",
+    "type": "Matériau",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 15,
+    "details": "Creuser le sol",
+    "extension": "vale"
+  },
+  {
+    "nom": "Dent de monstre marin",
+    "type": "Matériau",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 550,
+    "details": "Pêche dans les remous bleus",
+    "extension": "vale"
+  },
+  {
+    "nom": "Gravier",
+    "type": "Matériau",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 20,
+    "details": "Creuser le sol",
+    "extension": "vale"
+  },
+  {
+    "nom": "Jonc des tonneliers",
+    "type": "Matériau",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 45,
+    "details": "Cueillir près des points d'eau",
+    "extension": "vale"
+  },
+  {
+    "nom": "Marbre",
+    "type": "Matériau",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 30,
+    "details": "Miner les rochers et blocs de marbre",
+    "extension": "vale"
+  },
+  {
+    "nom": "Mousse",
+    "type": "Matériau",
+    "ou": [
+      "Reliure",
+      "Comté des Contes"
+    ],
+    "prix": 70,
+    "details": "Cueillir ou récupérer sur les souches moussues",
+    "extension": "vale"
+  },
+  {
+    "nom": "Pomme de pin",
+    "type": "Matériau",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 80,
+    "details": "Ramasser autour des arbres",
+    "extension": "vale"
+  },
+  {
+    "nom": "Posidonie",
+    "type": "Matériau",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 20,
+    "details": "Pêche hors des remous",
+    "extension": "vale"
+  },
+  {
+    "nom": "Roche volcanique",
+    "type": "Matériau",
+    "ou": [
+      "Comté des Contes",
+      "Mythopie"
+    ],
+    "prix": 30,
+    "details": "Creuser le sol",
+    "extension": "vale"
+  },
+  {
+    "nom": "Bois de grange récupéré",
+    "type": "Matériau",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 30,
+    "details": "Ramassage au sol",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Charnière rouillée",
+    "type": "Matériau",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 25,
+    "details": "Creuser le sol",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Fer à repasser ancien",
+    "type": "Matériau",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 20,
+    "details": "Minage",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Glands géants",
+    "type": "Matériau",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 35,
+    "details": "Creuser le sol",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Graines coptères",
+    "type": "Matériau",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 70,
+    "details": "Ramassage au sol",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Guirlandes de paillettes",
+    "type": "Matériau",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 50,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Minerai d'argent",
+    "type": "Matériau",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 2,
+    "details": "Minage",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Minerai herbeux",
+    "type": "Matériau",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 25,
+    "details": "Minage",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Poussière de fée",
+    "type": "Matériau",
+    "ou": [
+      "Montagnes de Florespérance"
+    ],
+    "prix": 15,
+    "details": "Minage, ou en retirant des Florespérances mortes",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Terre perlée",
+    "type": "Matériau",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 30,
+    "details": "Creuser le sol",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Cintres en fil de fer",
+    "type": "Matériau",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 20,
+    "details": "Pêche hors des remous",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Plumes d'oie",
+    "type": "Matériau",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 20,
+    "details": "Pêche hors des remous",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Vieille corde tressée",
+    "type": "Matériau",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 20,
+    "details": "Pêche hors des remous",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Asclépiade blanche",
+    "type": "Fleur",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": 33,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Asclépiade bleue",
+    "type": "Fleur",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": 48,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Asclépiade orange",
+    "type": "Fleur",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": 33,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Asclépiade orange et rouge",
+    "type": "Fleur",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": 66,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Asclépiade violette",
+    "type": "Fleur",
+    "ou": [
+      "Bayou de la Confiance"
+    ],
+    "prix": 25,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Bromélia jaune",
+    "type": "Fleur",
+    "ou": [
+      "Plateau ensoleillé"
+    ],
+    "prix": 73,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Bromélia rose",
+    "type": "Fleur",
+    "ou": [
+      "Plateau ensoleillé"
+    ],
+    "prix": 27,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Bromélia rouge",
+    "type": "Fleur",
+    "ou": [
+      "Plateau ensoleillé"
+    ],
+    "prix": 27,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Campanule blanche",
+    "type": "Fleur",
+    "ou": [
+      "Forêt du Courage"
+    ],
+    "prix": 60,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Campanule rouge",
+    "type": "Fleur",
+    "ou": [
+      "Forêt du Courage"
+    ],
+    "prix": 23,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Campanule violette",
+    "type": "Fleur",
+    "ou": [
+      "Forêt du Courage"
+    ],
+    "prix": 30,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Capucine jaune",
+    "type": "Fleur",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 85,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Capucine orange",
+    "type": "Fleur",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 60,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Capucine rouge",
+    "type": "Fleur",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 40,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Hydrangée blanche et rouge",
+    "type": "Fleur",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 54,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Hydrangée bleue",
+    "type": "Fleur",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 28,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Hydrangée rose",
+    "type": "Fleur",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 22,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Hydrangée violette",
+    "type": "Fleur",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 38,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Impatientes blanches",
+    "type": "Fleur",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 30,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Impatientes violettes",
+    "type": "Fleur",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 40,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Joubarbe orange",
+    "type": "Fleur",
+    "ou": [
+      "Plateau ensoleillé"
+    ],
+    "prix": 52,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Joubarbe rose",
+    "type": "Fleur",
+    "ou": [
+      "Plateau ensoleillé"
+    ],
+    "prix": 35,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Lys de la passion blanc",
+    "type": "Fleur",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 38,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Lys de la passion bleu",
+    "type": "Fleur",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 56,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Lys de la passion noir",
+    "type": "Fleur",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 79,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Lys de la passion rouge",
+    "type": "Fleur",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 38,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Lys de la passion vert",
+    "type": "Fleur",
+    "ou": [
+      "Hauteurs glacées"
+    ],
+    "prix": 28,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Lys étoilé bleu",
+    "type": "Fleur",
+    "ou": [
+      "Forêt du Courage"
+    ],
+    "prix": 30,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Lys étoilé orange",
+    "type": "Fleur",
+    "ou": [
+      "Forêt du Courage"
+    ],
+    "prix": 43,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Marguerite blanche",
+    "type": "Fleur",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": 25,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Marguerite jaune",
+    "type": "Fleur",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": 20,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Marguerite rouge",
+    "type": "Fleur",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": 48,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Penstemon montant vert",
+    "type": "Fleur",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": 35,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Penstemon montant violet",
+    "type": "Fleur",
+    "ou": [
+      "Prairie tranquille"
+    ],
+    "prix": 25,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Penstemon tombant blanc et rose",
+    "type": "Fleur",
+    "ou": [
+      "Esplanade"
+    ],
+    "prix": 41,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Penstemon tombant bleu",
+    "type": "Fleur",
+    "ou": [
+      "Esplanade"
+    ],
+    "prix": 23,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Penstemon tombant rouge",
+    "type": "Fleur",
+    "ou": [
+      "Esplanade"
+    ],
+    "prix": 18,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Penstemon tombant violet",
+    "type": "Fleur",
+    "ou": [
+      "Esplanade"
+    ],
+    "prix": 23,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Pissenlit",
+    "type": "Fleur",
+    "ou": [
+      "Esplanade"
+    ],
+    "prix": 23,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Rose rouge",
+    "type": "Fleur",
+    "ou": [],
+    "prix": 35,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Tournesol",
+    "type": "Fleur",
+    "ou": [
+      "Plage enchantée"
+    ],
+    "prix": 28,
+    "details": "Cueillette",
+    "extension": "base"
+  },
+  {
+    "nom": "Attrape-mouches verte",
+    "type": "Fleur",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade"
+    ],
+    "prix": 73,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Attrape-mouches violette",
+    "type": "Fleur",
+    "ou": [
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade"
+    ],
+    "prix": 35,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleur de cactus blanche",
+    "type": "Fleur",
+    "ou": [
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 32,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleur de cactus jaune",
+    "type": "Fleur",
+    "ou": [
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 46,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleur de cactus rose",
+    "type": "Fleur",
+    "ou": [
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 25,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleur de cactus violette",
+    "type": "Fleur",
+    "ou": [
+      "Dunes scintillantes – L'Oasis",
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 65,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleur luminescente bleue",
+    "type": "Fleur",
+    "ou": [
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 26,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleur luminescente rose",
+    "type": "Fleur",
+    "ou": [
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 36,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleur luminescente rouge",
+    "type": "Fleur",
+    "ou": [
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 20,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleur luminescente verte",
+    "type": "Fleur",
+    "ou": [
+      "Port antique – Le Belvédère",
+      "Port antique – Les Ruines"
+    ],
+    "prix": 49,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleurs de verre bleues",
+    "type": "Fleur",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert"
+    ],
+    "prix": 23,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleurs de verre noires",
+    "type": "Fleur",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert"
+    ],
+    "prix": 57,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleurs de verre orange",
+    "type": "Fleur",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert"
+    ],
+    "prix": 41,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Fleurs de verre vertes",
+    "type": "Fleur",
+    "ou": [
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert"
+    ],
+    "prix": 29,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Oiseau de paradis blanc",
+    "type": "Fleur",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – La Cour"
+    ],
+    "prix": 23,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Oiseau de paradis jaune",
+    "type": "Fleur",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – La Cour"
+    ],
+    "prix": 41,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Oiseau de paradis orange",
+    "type": "Fleur",
+    "ou": [
+      "Port antique – Les Quais",
+      "Port antique – La Cour"
+    ],
+    "prix": 18,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Sarracénie jaune",
+    "type": "Fleur",
+    "ou": [
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 29,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Sarracénie orange",
+    "type": "Fleur",
+    "ou": [
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 39,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Sarracénie rouge",
+    "type": "Fleur",
+    "ou": [
+      "Méandres sauvages – Le Bosquet",
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 82,
+    "details": "Cueillette",
+    "extension": "rift"
+  },
+  {
+    "nom": "Échinacée bibliophile beige",
+    "type": "Fleur",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 57,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Échinacée bibliophile bleue",
+    "type": "Fleur",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 29,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Échinacée bibliophile jaune",
+    "type": "Fleur",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 23,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Échinacée bibliophile vert olive",
+    "type": "Fleur",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 41,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Pavots éternels bleu sarcelle",
+    "type": "Fleur",
+    "ou": [
+      "Mythopie – Champs Élysées",
+      "Mythopie – Ombre de la Statue"
+    ],
+    "prix": 52,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Pavots éternels écarlates",
+    "type": "Fleur",
+    "ou": [
+      "Mythopie – Champs Élysées",
+      "Mythopie – Mont Olympe"
+    ],
+    "prix": 27,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Pavots éternels fuchsia",
+    "type": "Fleur",
+    "ou": [
+      "Mythopie – Plaines Ardentes",
+      "Mythopie – Mont Olympe"
+    ],
+    "prix": 73,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Pavots éternels jaunes",
+    "type": "Fleur",
+    "ou": [
+      "Mythopie – Plaines Ardentes",
+      "Mythopie – Ombre de la Statue"
+    ],
+    "prix": 35,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Roses blanches",
+    "type": "Fleur",
+    "ou": [
+      "Comté des Contes – Chutes de la Théière",
+      "Comté des Contes – Marais du Haricot magique"
+    ],
+    "prix": 73,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Roses gris ardoise",
+    "type": "Fleur",
+    "ou": [
+      "Comté des Contes – Chutes de la Théière",
+      "Comté des Contes – Marais du Haricot magique"
+    ],
+    "prix": 35,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Roses noir de nuit",
+    "type": "Fleur",
+    "ou": [
+      "Comté des Contes – Bois sauvages",
+      "Comté des Contes – Forteresse tombée"
+    ],
+    "prix": 52,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Roses vieux violet",
+    "type": "Fleur",
+    "ou": [
+      "Comté des Contes – Bois sauvages",
+      "Comté des Contes – Marais du Haricot magique"
+    ],
+    "prix": 27,
+    "details": "Cueillette",
+    "extension": "vale"
+  },
+  {
+    "nom": "Crocus blanc",
+    "type": "Fleur",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 41,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Crocus jaune",
+    "type": "Fleur",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 57,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Crocus rose",
+    "type": "Fleur",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 23,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Crocus violet",
+    "type": "Fleur",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 29,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Fleur en soie argentée",
+    "type": "Fleur",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 52,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Fleur en soie noire",
+    "type": "Fleur",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 27,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Fleur en soie rouge",
+    "type": "Fleur",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 35,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Fleur en soie verte",
+    "type": "Fleur",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 73,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Muguet bleu",
+    "type": "Fleur",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 31,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Muguet jaune",
+    "type": "Fleur",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 88,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Muguet rose",
+    "type": "Fleur",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 41,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Muguet violet",
+    "type": "Fleur",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 62,
+    "details": "Cueillette",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Améthyste",
+    "type": "Gemme",
+    "ou": [
+      "Hauteurs glacées",
+      "Terres oubliées"
+    ],
+    "prix": 500,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Améthyste brillante",
+    "type": "Gemme",
+    "ou": [
+      "Hauteurs glacées",
+      "Terres oubliées"
+    ],
+    "prix": 2000,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "base"
+  },
+  {
+    "nom": "Aigue-marine",
+    "type": "Gemme",
+    "ou": [
+      "Plage enchantée",
+      "Forêt du Courage"
+    ],
+    "prix": 250,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Aigue-marine brillante",
+    "type": "Gemme",
+    "ou": [
+      "Plage enchantée",
+      "Forêt du Courage"
+    ],
+    "prix": 1000,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "base"
+  },
+  {
+    "nom": "Citrine",
+    "type": "Gemme",
+    "ou": [
+      "Bayou de la Confiance",
+      "Plateau ensoleillé"
+    ],
+    "prix": 380,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Citrine brillante",
+    "type": "Gemme",
+    "ou": [
+      "Bayou de la Confiance",
+      "Plateau ensoleillé"
+    ],
+    "prix": 1500,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "base"
+  },
+  {
+    "nom": "Diamant",
+    "type": "Gemme",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 600,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Diamant brillant",
+    "type": "Gemme",
+    "ou": [
+      "Terres oubliées"
+    ],
+    "prix": 2400,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "base"
+  },
+  {
+    "nom": "Émeraude",
+    "type": "Gemme",
+    "ou": [
+      "Forêt du Courage",
+      "Bayou de la Confiance"
+    ],
+    "prix": 325,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Émeraude brillante",
+    "type": "Gemme",
+    "ou": [
+      "Forêt du Courage",
+      "Bayou de la Confiance"
+    ],
+    "prix": 1300,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "base"
+  },
+  {
+    "nom": "Grenat",
+    "type": "Gemme",
+    "ou": [
+      "Esplanade",
+      "Prairie tranquille",
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert"
+    ],
+    "prix": 160,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Grenat brillant",
+    "type": "Gemme",
+    "ou": [
+      "Esplanade",
+      "Prairie tranquille",
+      "Dunes scintillantes – Les Plaines",
+      "Dunes scintillantes – Le Désert"
+    ],
+    "prix": 640,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "base"
+  },
+  {
+    "nom": "Onyx",
+    "type": "Gemme",
+    "ou": [
+      "Partout"
+    ],
+    "prix": 300,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Péridot",
+    "type": "Gemme",
+    "ou": [
+      "Prairie tranquille",
+      "Plage enchantée",
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade"
+    ],
+    "prix": 200,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Péridot brillant",
+    "type": "Gemme",
+    "ou": [
+      "Prairie tranquille",
+      "Plage enchantée",
+      "Méandres sauvages – Les Prés",
+      "Méandres sauvages – La Promenade"
+    ],
+    "prix": 800,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "base"
+  },
+  {
+    "nom": "Rubis",
+    "type": "Gemme",
+    "ou": [
+      "Mines de Vitalys (Plateau ensoleillé)",
+      "Mythopie"
+    ],
+    "prix": 350,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Rubis brillant",
+    "type": "Gemme",
+    "ou": [
+      "Mines de Vitalys (Plateau ensoleillé)",
+      "Mythopie"
+    ],
+    "prix": 1400,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "base"
+  },
+  {
+    "nom": "Saphir",
+    "type": "Gemme",
+    "ou": [
+      "Mines de Vitalys (Plateau ensoleillé)"
+    ],
+    "prix": 350,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Saphir brillant",
+    "type": "Gemme",
+    "ou": [
+      "Mines de Vitalys (Plateau ensoleillé)"
+    ],
+    "prix": 1400,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "base"
+  },
+  {
+    "nom": "Topaze",
+    "type": "Gemme",
+    "ou": [
+      "Esplanade",
+      "Port antique – Les Quais",
+      "Port antique – La Cour",
+      "Reliure"
+    ],
+    "prix": 240,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Topaze brillante",
+    "type": "Gemme",
+    "ou": [
+      "Esplanade",
+      "Port antique – Les Quais",
+      "Port antique – La Cour",
+      "Reliure"
+    ],
+    "prix": 960,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "base"
+  },
+  {
+    "nom": "Tourmaline",
+    "type": "Gemme",
+    "ou": [
+      "Plateau ensoleillé",
+      "Hauteurs glacées"
+    ],
+    "prix": 420,
+    "details": "Minage des affleurements rocheux",
+    "extension": "base"
+  },
+  {
+    "nom": "Tourmaline brillante",
+    "type": "Gemme",
+    "ou": [
+      "Plateau ensoleillé",
+      "Hauteurs glacées"
+    ],
+    "prix": 1600,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "base"
+  },
+  {
+    "nom": "Alexandrite",
+    "type": "Gemme",
+    "ou": [
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – L'Oasis"
+    ],
+    "prix": 350,
+    "details": "Minage des affleurements rocheux",
+    "extension": "rift"
+  },
+  {
+    "nom": "Alexandrite brillante",
+    "type": "Gemme",
+    "ou": [
+      "Dunes scintillantes – Le Désert",
+      "Dunes scintillantes – L'Oasis"
+    ],
+    "prix": 1400,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "rift"
+  },
+  {
+    "nom": "Jade",
+    "type": "Gemme",
+    "ou": [
+      "Port antique – La Cour",
+      "Port antique – Le Belvédère"
+    ],
+    "prix": 250,
+    "details": "Minage des affleurements rocheux",
+    "extension": "rift"
+  },
+  {
+    "nom": "Jade brillant",
+    "type": "Gemme",
+    "ou": [
+      "Port antique – La Cour",
+      "Port antique – Le Belvédère"
+    ],
+    "prix": 1000,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "rift"
+  },
+  {
+    "nom": "Miellite",
+    "type": "Gemme",
+    "ou": [
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 400,
+    "details": "Minage des affleurements rocheux",
+    "extension": "rift"
+  },
+  {
+    "nom": "Miellite brillante",
+    "type": "Gemme",
+    "ou": [
+      "Dunes scintillantes – La Lisière"
+    ],
+    "prix": 1600,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "rift"
+  },
+  {
+    "nom": "Perrénite",
+    "type": "Gemme",
+    "ou": [
+      "Port antique – Les Ruines"
+    ],
+    "prix": 300,
+    "details": "Minage des affleurements rocheux",
+    "extension": "rift"
+  },
+  {
+    "nom": "Perrénite brillante",
+    "type": "Gemme",
+    "ou": [
+      "Port antique – Les Ruines"
+    ],
+    "prix": 1200,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "rift"
+  },
+  {
+    "nom": "Spinelle",
+    "type": "Gemme",
+    "ou": [
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet"
+    ],
+    "prix": 450,
+    "details": "Minage des affleurements rocheux",
+    "extension": "rift"
+  },
+  {
+    "nom": "Spinelle brillant",
+    "type": "Gemme",
+    "ou": [
+      "Méandres sauvages – La Promenade",
+      "Méandres sauvages – Le Bosquet"
+    ],
+    "prix": 1800,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "rift"
+  },
+  {
+    "nom": "Zircon bleu",
+    "type": "Gemme",
+    "ou": [
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 500,
+    "details": "Minage des affleurements rocheux",
+    "extension": "rift"
+  },
+  {
+    "nom": "Zircon bleu brillant",
+    "type": "Gemme",
+    "ou": [
+      "Méandres sauvages – Le Lagon"
+    ],
+    "prix": 2000,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "rift"
+  },
+  {
+    "nom": "Glace pure",
+    "type": "Gemme",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 300,
+    "details": "Minage des affleurements rocheux",
+    "extension": "vale"
+  },
+  {
+    "nom": "Glace pure brillante",
+    "type": "Gemme",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 1200,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "vale"
+  },
+  {
+    "nom": "Magma",
+    "type": "Gemme",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 400,
+    "details": "Minage des affleurements rocheux",
+    "extension": "vale"
+  },
+  {
+    "nom": "Magma scintillant",
+    "type": "Gemme",
+    "ou": [
+      "Mythopie"
+    ],
+    "prix": 1600,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "vale"
+  },
+  {
+    "nom": "Opale",
+    "type": "Gemme",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 300,
+    "details": "Minage des affleurements rocheux",
+    "extension": "vale"
+  },
+  {
+    "nom": "Opale brillante",
+    "type": "Gemme",
+    "ou": [
+      "Reliure"
+    ],
+    "prix": 1200,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "vale"
+  },
+  {
+    "nom": "Saphir étoile",
+    "type": "Gemme",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 450,
+    "details": "Minage des affleurements rocheux",
+    "extension": "vale"
+  },
+  {
+    "nom": "Saphir étoile brillant",
+    "type": "Gemme",
+    "ou": [
+      "Comté des Contes"
+    ],
+    "prix": 1800,
+    "details": "Minage des affleurements rocheux (version brillante, rare)",
+    "extension": "vale"
+  },
+  {
+    "nom": "Pyrite",
+    "type": "Gemme",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 250,
+    "details": "Minage des affleurements rocheux ; nom FR déduit de l'anglais (Pyrite/Jasper), non confirmé",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Pyrite brillante",
+    "type": "Gemme",
+    "ou": [
+      "Alpes enchantées"
+    ],
+    "prix": 1000,
+    "details": "Minage des affleurements rocheux ; nom FR déduit de l'anglais (Pyrite/Jasper), non confirmé",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Jaspe",
+    "type": "Gemme",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 400,
+    "details": "Minage des affleurements rocheux ; nom FR déduit de l'anglais (Pyrite/Jasper), non confirmé",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Jaspe brillant",
+    "type": "Gemme",
+    "ou": [
+      "Ravin ravissant"
+    ],
+    "prix": 1600,
+    "details": "Minage des affleurements rocheux ; nom FR déduit de l'anglais (Pyrite/Jasper), non confirmé",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Honeycomb Stone",
+    "type": "Gemme",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 550,
+    "details": "Minage des affleurements rocheux ; nom FR officiel inconnu (nom anglais)",
+    "extension": "ranch"
+  },
+  {
+    "nom": "Shiny Honeycomb Stone",
+    "type": "Gemme",
+    "ou": [
+      "Clairière féerique"
+    ],
+    "prix": 2200,
+    "details": "Minage des affleurements rocheux ; nom FR officiel inconnu (nom anglais)",
+    "extension": "ranch"
+  }
+]

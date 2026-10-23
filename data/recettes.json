@@ -1,0 +1,5985 @@
+[
+ {
+  "nom": "Café",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 730,
+  "prix": 43,
+  "ingredients": [
+   "Grain de café"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Crackers",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 80,
+  "prix": 2,
+  "ingredients": [
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Crudités",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 83,
+  "prix": 26,
+  "ingredients": [
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Hors-d'œuvre de fruits de mer",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 242,
+  "prix": 54,
+  "ingredients": [
+   "Fruit de mer au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Légumes grillés",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 83,
+  "prix": 9,
+  "ingredients": [
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Œufs durs",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 578,
+  "prix": 264,
+  "ingredients": [
+   "Œuf"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Plateau de fromages",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 482,
+  "prix": 216,
+  "ingredients": [
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Purée",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 230,
+  "prix": 151,
+  "ingredients": [
+   "Pomme de terre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 139,
+  "prix": 9,
+  "ingredients": [
+   "Laitue"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Soupe à la tomate",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 83,
+  "prix": 26,
+  "ingredients": [
+   "Tomate"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Soupe d'okras",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 99,
+  "prix": 136,
+  "ingredients": [
+   "Okra"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Thé royal",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 218,
+  "prix": 36,
+  "ingredients": [
+   "Majesthé"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Crackers au seigle féerique",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 126,
+  "prix": 74,
+  "ingredients": [
+   "Seigle féerique"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Crème aux graines de chia simple",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 80,
+  "prix": 7,
+  "ingredients": [
+   "Graine de chia"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Salade bouquet écarlate",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 160,
+  "prix": 34,
+  "ingredients": [
+   "Chou frisé écarlate"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Thé au miel et au cynorhodon",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 1,
+  "energie": 570,
+  "prix": 210,
+  "ingredients": [
+   "Corail de miel"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Asperges rôties",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 221,
+  "prix": 313,
+  "ingredients": [
+   "Asperges",
+   "Colza"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Café crème",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 1358,
+  "prix": 345,
+  "ingredients": [
+   "Grain de café",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Frites",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 342,
+  "prix": 304,
+  "ingredients": [
+   "Pomme de terre",
+   "Colza"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Hareng mariné",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 723,
+  "prix": 305,
+  "ingredients": [
+   "Hareng",
+   "Oignon"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Plateau de fruits de mer",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 458,
+  "prix": 116,
+  "ingredients": [
+   "Fruit de mer au choix",
+   "Fruit de mer au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Plateau d'huîtres",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 1155,
+  "prix": 367,
+  "ingredients": [
+   "Huître",
+   "Citron"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade verte",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 180,
+  "prix": 20,
+  "ingredients": [
+   "Laitue",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sauté de champignons",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 712,
+  "prix": 286,
+  "ingredients": [
+   "Champignon",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Soupe aux légumes",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 120,
+  "prix": 20,
+  "ingredients": [
+   "Légume au choix",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Thé à la menthe poivrée",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 993,
+  "prix": 146,
+  "ingredients": [
+   "Citron",
+   "Menthe"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Amandes rôties",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 1070,
+  "prix": 86,
+  "ingredients": [
+   "Amandes",
+   "Agave"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Brochette de scorpion épicée",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 1792,
+  "prix": 617,
+  "ingredients": [
+   "Scorpion",
+   "Paprika"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Canapés au crabe",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 2549,
+  "prix": 1000,
+  "ingredients": [
+   "Crabe",
+   "Fromage"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Carpaccio de vers des sables",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 3004,
+  "prix": 1100,
+  "ingredients": [
+   "Ver des sables",
+   "Melon"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Écrous et boulons",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 3195,
+  "prix": 866,
+  "ingredients": [
+   "Poisson-robot",
+   "Amandes"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Étoile de mer bleue brillante grillée",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 3118,
+  "prix": 1200,
+  "ingredients": [
+   "Étoile de mer bleue brillante",
+   "Menthe"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Étoile de mer rose au barbecue",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 2812,
+  "prix": 1200,
+  "ingredients": [
+   "Jolie étoile de mer rose",
+   "Paprika"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Jus de palourde",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 289,
+  "prix": 93,
+  "ingredients": [
+   "Palourde",
+   "Tomate"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Latte royal",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 814,
+  "prix": 338,
+  "ingredients": [
+   "Lait",
+   "Majesthé"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Salade de chou",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 387,
+  "prix": 389,
+  "ingredients": [
+   "Chou",
+   "Carotte"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Soupe tomate basilic",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 255,
+  "prix": 93,
+  "ingredients": [
+   "Tomate",
+   "Basilic"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Thé glacé royal",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 610,
+  "prix": 234,
+  "ingredients": [
+   "Glace pilée",
+   "Majesthé"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Ambroisie étincelante",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 883,
+  "prix": 175,
+  "ingredients": [
+   "Ambroisie",
+   "Épice foudroyante"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Féta et olives au four",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 815,
+  "prix": 142,
+  "ingredients": [
+   "Olive",
+   "Féta feuillet"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Porcinis sautés",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 500,
+  "prix": 136,
+  "ingredients": [
+   "Porcini",
+   "Ail"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Smoothie à l'ambroisie",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 1155,
+  "prix": 247,
+  "ingredients": [
+   "Yaourt",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Smoothie au melon miel",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 769,
+  "prix": 318,
+  "ingredients": [
+   "Yaourt",
+   "Melon miel"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Smoothie aux fraises spirales",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 1410,
+  "prix": 221,
+  "ingredients": [
+   "Yaourt",
+   "Fraise spirale"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Smoothie aux kakis",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 1070,
+  "prix": 188,
+  "ingredients": [
+   "Yaourt",
+   "Kaki"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Smoothie aux physalis",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 781,
+  "prix": 227,
+  "ingredients": [
+   "Yaourt",
+   "Physalis"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Smoothie aux pommes d'or",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 985,
+  "prix": 299,
+  "ingredients": [
+   "Yaourt",
+   "Pomme d'or"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Croquettes de poisson alpines",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 2370,
+  "prix": 1000,
+  "ingredients": [
+   "Oktobar",
+   "Aneth"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Soda au nectar pétillant",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 2,
+  "energie": 1197,
+  "prix": 247,
+  "ingredients": [
+   "Carambole",
+   "Glace pilée"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Gougères à la citrouille",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 1466,
+  "prix": 1400,
+  "ingredients": [
+   "Citrouille",
+   "Œuf",
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gougères à la courgette",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 1216,
+  "prix": 632,
+  "ingredients": [
+   "Courgette",
+   "Œuf",
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gougères à l'aubergine",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 1941,
+  "prix": 991,
+  "ingredients": [
+   "Aubergine",
+   "Œuf",
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gougères au piment",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 1382,
+  "prix": 669,
+  "ingredients": [
+   "Piment",
+   "Œuf",
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gougères aux oignons",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 1392,
+  "prix": 798,
+  "ingredients": [
+   "Oignon",
+   "Œuf",
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gougère aux poivrons",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 1272,
+  "prix": 606,
+  "ingredients": [
+   "Poivron",
+   "Œuf",
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gougère aux pommes de terre",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 1333,
+  "prix": 736,
+  "ingredients": [
+   "Pomme de terre",
+   "Œuf",
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Moka",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 2246,
+  "prix": 425,
+  "ingredients": [
+   "Grain de café",
+   "Lait",
+   "Fève de cacao"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Plat de légumes grillés",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 161,
+  "prix": 33,
+  "ingredients": [
+   "Légume au choix",
+   "Légume au choix",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Potage",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 461,
+  "prix": 215,
+  "ingredients": [
+   "Pomme de terre",
+   "Légume au choix",
+   "Épice au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Arepas con queso",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 770,
+  "prix": 309,
+  "ingredients": [
+   "Maïs",
+   "Fromage",
+   "Agave"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Dumplings végétariens",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 225,
+  "prix": 109,
+  "ingredients": [
+   "Blé",
+   "Légume au choix",
+   "Soja"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Falafel",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 528,
+  "prix": 159,
+  "ingredients": [
+   "Haricots",
+   "Cumin",
+   "Ail"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Mille aiguilles",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 5000,
+  "prix": 2400,
+  "ingredients": [
+   "Étoile de mer bleue brillante",
+   "Jolie étoile de mer rose",
+   "Cactibaies"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Tzatziki",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 1094,
+  "prix": 460,
+  "ingredients": [
+   "Yaourt",
+   "Ail",
+   "Concombre"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Sélection de poisson fumés",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 3,
+  "energie": 1701,
+  "prix": 288,
+  "ingredients": [
+   "Thon",
+   "Thon",
+   "Poisson au choix",
+   "Blé"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Buñuelos",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 1881,
+  "prix": 948,
+  "ingredients": [
+   "Blé",
+   "Fromage",
+   "Lait",
+   "Œuf"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gaspacho",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 821,
+  "prix": 556,
+  "ingredients": [
+   "Concombre",
+   "Tomate",
+   "Oignon",
+   "Épice au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Hareng mariné",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 1742,
+  "prix": 431,
+  "ingredients": [
+   "Hareng",
+   "Citron",
+   "Oignon",
+   "Épice au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Potage à la citrouille",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 1431,
+  "prix": 1500,
+  "ingredients": [
+   "Légume au choix",
+   "Lait",
+   "Gingembre",
+   "Citrouille"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Rêve pétillant",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 1550,
+  "prix": 316,
+  "ingredients": [
+   "Fruit de Dreamlight",
+   "Canne à sucre",
+   "Blé",
+   "Glace pilée"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Soufflé",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 2386,
+  "prix": 1200,
+  "ingredients": [
+   "Fromage",
+   "Œuf",
+   "Lait",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Soupe crémeuse",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 1138,
+  "prix": 576,
+  "ingredients": [
+   "Lait",
+   "Pomme de terre",
+   "Légume au choix",
+   "Épice au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Baozi",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 842,
+  "prix": 503,
+  "ingredients": [
+   "Porc",
+   "Blé",
+   "Soja",
+   "Épice au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Ceviche d'alose",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 1696,
+  "prix": 427,
+  "ingredients": [
+   "Alose",
+   "Oignon",
+   "Tomate",
+   "Citron"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Ceviche en conque",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 2646,
+  "prix": 712,
+  "ingredients": [
+   "Escargot de mer",
+   "Oignon",
+   "Tomate",
+   "Citron"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Dumplings",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 710,
+  "prix": 493,
+  "ingredients": [
+   "Protéine au choix",
+   "Blé",
+   "Légume au choix",
+   "Soja"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Takoyaki",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 2164,
+  "prix": 898,
+  "ingredients": [
+   "Pieuvre",
+   "Algue",
+   "Œuf",
+   "Soja"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Salade de radicchio",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 835,
+  "prix": 739,
+  "ingredients": [
+   "Chou-fleur",
+   "Radis",
+   "Radicchio",
+   "Haricot vert"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Tapenade olympienne",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 1090,
+  "prix": 456,
+  "ingredients": [
+   "Grain élyséen",
+   "Olive",
+   "Melon miel",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Borscht au babeurre",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 4,
+  "energie": 1656,
+  "prix": 766,
+  "ingredients": [
+   "Lait",
+   "Betterave",
+   "Œuf",
+   "Aneth"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Grand plateau de fruits de mer",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 5,
+  "energie": 1810,
+  "prix": 340,
+  "ingredients": [
+   "Fruit de mer au choix",
+   "Fruit de mer au choix",
+   "Fruit de mer au choix",
+   "Fruit de mer au choix",
+   "Citron"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Harengs marinés d'Arendelle",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 5,
+  "energie": 2102,
+  "prix": 556,
+  "ingredients": [
+   "Hareng",
+   "Citron",
+   "Oignon",
+   "Ail",
+   "Épice au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Soupe de pomme de terre et de poireaux",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 5,
+  "energie": 1984,
+  "prix": 1400,
+  "ingredients": [
+   "Poireau",
+   "Pomme de terre",
+   "Lait",
+   "Oignon",
+   "Ail"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade de boulghour",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 5,
+  "energie": 910,
+  "prix": 396,
+  "ingredients": [
+   "Blé",
+   "Concombre",
+   "Tomate",
+   "Menthe",
+   "Épice au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Éclair de foudre",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 5,
+  "energie": 5000,
+  "prix": 5000,
+  "ingredients": [
+   "Périophtalme stygien",
+   "Lamproie",
+   "Épice foudroyante",
+   "Épice foudroyante",
+   "Sucrerie au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Pommes de terre à la grecque",
+  "categorie": "Hors-d'œuvre",
+  "etoiles": 5,
+  "energie": 688,
+  "prix": 351,
+  "ingredients": [
+   "Pomme de terre",
+   "Fruit au choix",
+   "Ail",
+   "Épice au choix",
+   "Cristal de sel"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Hors-d'œuvre",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 202,
+  "prix": 24,
+  "ingredients": [
+   "Épice au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Poisson grillé",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 290,
+  "prix": 30,
+  "ingredients": [
+   "Poisson au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Soupe de poireau",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 414,
+  "prix": 370,
+  "ingredients": [
+   "Poireau"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Rôti",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 450,
+  "prix": 300,
+  "ingredients": [
+   "Protéine au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Tofu",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 142,
+  "prix": 82,
+  "ingredients": [
+   "Soja"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Assiette d'olives",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 610,
+  "prix": 42,
+  "ingredients": [
+   "Olive"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Flocons d'avoine",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 210,
+  "prix": 118,
+  "ingredients": [
+   "Avoine"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Moules à la vapeur",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 290,
+  "prix": 90,
+  "ingredients": [
+   "Moule"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Sashimi de calamar",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 1650,
+  "prix": 600,
+  "ingredients": [
+   "Calamar"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Sashimi de carpe koï",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 290,
+  "prix": 60,
+  "ingredients": [
+   "Carpe koï"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Sashimi de lamproie",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 2930,
+  "prix": 1800,
+  "ingredients": [
+   "Lamproie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Sashimi de thon",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 610,
+  "prix": 114,
+  "ingredients": [
+   "Thon"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Steak de chou-fleur",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 165,
+  "prix": 30,
+  "ingredients": [
+   "Chou-fleur"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Terrine de poisson en gelée",
+  "categorie": "Plat principal",
+  "etoiles": 1,
+  "energie": 2450,
+  "prix": 1200,
+  "ingredients": [
+   "Poisson en gelée"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Cacahuètes fumées et baudroie",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 3960,
+  "prix": 2200,
+  "ingredients": [
+   "Baudroie",
+   "Cacahuète"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Carpe au four",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 1894,
+  "prix": 767,
+  "ingredients": [
+   "Carpe",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Confiture merveilleuse",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 932,
+  "prix": 54,
+  "ingredients": [
+   "Fruit de Dreamlight",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Entrée de poisson grillé",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 340,
+  "prix": 42,
+  "ingredients": [
+   "Poisson au choix",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Légumes délicieux",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 246,
+  "prix": 36,
+  "ingredients": [
+   "Légume au choix",
+   "Épice au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Morue croustillante au four",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 337,
+  "prix": 47,
+  "ingredients": [
+   "Morue",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Œuf brouillé",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 1070,
+  "prix": 520,
+  "ingredients": [
+   "Œuf",
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Pâtes",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 117,
+  "prix": 30,
+  "ingredients": [
+   "Blé",
+   "Tomate"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Poisson savoureux",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 985,
+  "prix": 74,
+  "ingredients": [
+   "Poisson au choix",
+   "Citron"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Porridge",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 668,
+  "prix": 301,
+  "ingredients": [
+   "Lait",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade de fruits de mer",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 349,
+  "prix": 68,
+  "ingredients": [
+   "Fruit de mer au choix",
+   "Laitue"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sandwich au beurre de cacahuète",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 592,
+  "prix": 262,
+  "ingredients": [
+   "Cacahuète",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sandwich au poisson",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 337,
+  "prix": 34,
+  "ingredients": [
+   "Poisson au choix",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sushi",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 405,
+  "prix": 111,
+  "ingredients": [
+   "Poisson au choix",
+   "Riz"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sushi au saumon",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 1000,
+  "prix": 274,
+  "ingredients": [
+   "Saumon",
+   "Riz"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tamagoyaki",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 689,
+  "prix": 310,
+  "ingredients": [
+   "Œuf",
+   "Canne à sucre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Bagel au sésame",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 160,
+  "prix": 26,
+  "ingredients": [
+   "Blé",
+   "Aliment sucré"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Haricots en sauce",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 544,
+  "prix": 388,
+  "ingredients": [
+   "Haricots",
+   "Porc"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Pâtes au fromage classiques",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 541,
+  "prix": 236,
+  "ingredients": [
+   "Blé",
+   "Fromage"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Choux de Bruxelles au four",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 959,
+  "prix": 104,
+  "ingredients": [
+   "Chou de Bruxelles",
+   "Ail"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Haricots verts au four",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 379,
+  "prix": 336,
+  "ingredients": [
+   "Haricot vert",
+   "Ail"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Loup de mer en croûte de sel",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 602,
+  "prix": 123,
+  "ingredients": [
+   "Loup de mer",
+   "Cristal de sel"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Porridge écossais",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 255,
+  "prix": 139,
+  "ingredients": [
+   "Avoine",
+   "Fruit au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Céréales canines croustillantes",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 796,
+  "prix": 107,
+  "ingredients": [
+   "Orge perlé",
+   "Pêche à aiguilles"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Poisson blanc cuisiné et betteraves rôties",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 900,
+  "prix": 81,
+  "ingredients": [
+   "Groseilles",
+   "Poisson blanc des montagnes"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Ragoût bouton",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 375,
+  "prix": 135,
+  "ingredients": [
+   "Carotte",
+   "Champignon bouton"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Salade en gelée",
+  "categorie": "Plat principal",
+  "etoiles": 2,
+  "energie": 2717,
+  "prix": 1300,
+  "ingredients": [
+   "Poisson en gelée",
+   "Chou frisé écarlate"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Bar et légumes poêlés",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 394,
+  "prix": 57,
+  "ingredients": [
+   "Bar",
+   "Légume au choix",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Brême au four épicée",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 3155,
+  "prix": 1200,
+  "ingredients": [
+   "Brême",
+   "Piment",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Espadon à l'ail et au citron",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 3713,
+  "prix": 1100,
+  "ingredients": [
+   "Espadon",
+   "Ail",
+   "Citron"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Fugu cuit à la vapeur",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1368,
+  "prix": 1400,
+  "ingredients": [
+   "Fugu",
+   "Gingembre",
+   "Ail"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gougères aux épinards de Kronk",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 750,
+  "prix": 461,
+  "ingredients": [
+   "Épinard",
+   "Fromage",
+   "Colza"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Maki",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 471,
+  "prix": 148,
+  "ingredients": [
+   "Poisson au choix",
+   "Algue",
+   "Riz"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Maki au concombre",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 462,
+  "prix": 335,
+  "ingredients": [
+   "Algue",
+   "Concombre",
+   "Riz"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Maki au saumon",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1101,
+  "prix": 323,
+  "ingredients": [
+   "Riz",
+   "Algue",
+   "Saumon"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Morue au four croustillante au fromage",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 840,
+  "prix": 303,
+  "ingredients": [
+   "Morue",
+   "Blé",
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Omelette",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1751,
+  "prix": 882,
+  "ingredients": [
+   "Œuf",
+   "Fromage",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Parmentier de poisson",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 867,
+  "prix": 303,
+  "ingredients": [
+   "Poisson au choix",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Pâtes aux fruits de mer",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 921,
+  "prix": 387,
+  "ingredients": [
+   "Fruit de mer au choix",
+   "Blé",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Pâtes végétariennes",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 158,
+  "prix": 43,
+  "ingredients": [
+   "Tomate",
+   "Blé",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Perche frite simple",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1314,
+  "prix": 380,
+  "ingredients": [
+   "Perche",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Pizza",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 607,
+  "prix": 284,
+  "ingredients": [
+   "Tomate",
+   "Fromage",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Porridge aux fruits",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1155,
+  "prix": 353,
+  "ingredients": [
+   "Lait",
+   "Blé",
+   "Fruit au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Ragoût végétarien",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 617,
+  "prix": 475,
+  "ingredients": [
+   "Pomme de terre",
+   "Carotte",
+   "Oignon"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Risotto au poisson",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 939,
+  "prix": 386,
+  "ingredients": [
+   "Poisson au choix",
+   "Riz",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade à la carpe",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 2310,
+  "prix": 617,
+  "ingredients": [
+   "Carpe",
+   "Citron",
+   "Laitue"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade copieuse",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 224,
+  "prix": 33,
+  "ingredients": [
+   "Légume au choix",
+   "Légume au choix",
+   "Laitue"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade de poisson",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1140,
+  "prix": 92,
+  "ingredients": [
+   "Poisson au choix",
+   "Citron",
+   "Laitue"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Saumon glacé au cidre",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1572,
+  "prix": 271,
+  "ingredients": [
+   "Saumon",
+   "Canne à sucre",
+   "Pomme"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Soupe aux fruits de mer",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 340,
+  "prix": 85,
+  "ingredients": [
+   "Fruit de mer au choix",
+   "Légume au choix",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Soupe de poisson",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 978,
+  "prix": 368,
+  "ingredients": [
+   "Poisson au choix",
+   "Légume au choix",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Spaghetti arrabbiata",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 373,
+  "prix": 141,
+  "ingredients": [
+   "Tomate",
+   "Blé",
+   "Piment"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Steak de poisson",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 537,
+  "prix": 100,
+  "ingredients": [
+   "Poisson au choix",
+   "Tomate",
+   "Basilic"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Steak de thazard aigre-doux",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 2292,
+  "prix": 702,
+  "ingredients": [
+   "Thazard",
+   "Canne à sucre",
+   "Citron"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sushi au fugu",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 3261,
+  "prix": 1300,
+  "ingredients": [
+   "Fugu",
+   "Riz",
+   "Algue"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tarte aux fruits de mer",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 813,
+  "prix": 331,
+  "ingredients": [
+   "Fruit de mer au choix",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tarte végétarienne",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 634,
+  "prix": 279,
+  "ingredients": [
+   "Légume au choix",
+   "Beurre",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tilapia et légumes poêlés",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 2194,
+  "prix": 862,
+  "ingredients": [
+   "Tilapia",
+   "Légume au choix",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Truite arc-en-ciel grillée",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 889,
+  "prix": 338,
+  "ingredients": [
+   "Truite arc-en-ciel",
+   "Tomate",
+   "Oignon"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Ajiaco",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 757,
+  "prix": 898,
+  "ingredients": [
+   "Maïs",
+   "Pomme de terre",
+   "Volaille"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Bagel tartiné de fromage",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 652,
+  "prix": 280,
+  "ingredients": [
+   "Blé",
+   "Fromage",
+   "Aliment sucré"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Bon vieux hamburger",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 634,
+  "prix": 1400,
+  "ingredients": [
+   "Gibier",
+   "Blé",
+   "Laitue"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Choucroute-saucisses",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 958,
+  "prix": 884,
+  "ingredients": [
+   "Porc",
+   "Chou",
+   "Pomme de terre"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Dahl aux lentilles corail",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 405,
+  "prix": 357,
+  "ingredients": [
+   "Piment",
+   "Tomate",
+   "Lentilles corail"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Frites",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 387,
+  "prix": 358,
+  "ingredients": [
+   "Yuccarina",
+   "Igname",
+   "Colza"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Hamburger écarlate",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 187,
+  "prix": 231,
+  "ingredients": [
+   "Blé",
+   "Légume au choix",
+   "Lentilles corail"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Nachos",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 842,
+  "prix": 383,
+  "ingredients": [
+   "Piment",
+   "Maïs",
+   "Fromage"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Pâtes aux herbes",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 759,
+  "prix": 289,
+  "ingredients": [
+   "Blé",
+   "Beurre",
+   "Épice au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Poutine",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 845,
+  "prix": 580,
+  "ingredients": [
+   "Pomme de terre",
+   "Colza",
+   "Fromage"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Pupusas Revueltas",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 627,
+  "prix": 790,
+  "ingredients": [
+   "Volaille",
+   "Maïs",
+   "Haricots"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Ramen",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1128,
+  "prix": 660,
+  "ingredients": [
+   "Porc",
+   "Blé",
+   "Œuf"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Schnitzel",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 640,
+  "prix": 854,
+  "ingredients": [
+   "Volaille",
+   "Blé",
+   "Colza"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Soupe piquante au piranha",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 4001,
+  "prix": 1900,
+  "ingredients": [
+   "Piment",
+   "Bambou",
+   "Piranha"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Tartiflette de navet",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1459,
+  "prix": 863,
+  "ingredients": [
+   "Porc",
+   "Navet",
+   "Fromage"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Tartiflette végétarienne aux navets",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 816,
+  "prix": 399,
+  "ingredients": [
+   "Champignon",
+   "Navet",
+   "Soja"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Tourte à la viande",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1047,
+  "prix": 618,
+  "ingredients": [
+   "Protéine au choix",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Yakisoba",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 789,
+  "prix": 710,
+  "ingredients": [
+   "Porc",
+   "Blé",
+   "Chou"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Ail saumuré",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 383,
+  "prix": 119,
+  "ingredients": [
+   "Ail",
+   "Cristal de sel",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Cacio e pepe",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 379,
+  "prix": 403,
+  "ingredients": [
+   "Féta feuillet",
+   "Grain élyséen",
+   "Poivre noir"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Casserole de haricots verts",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 652,
+  "prix": 607,
+  "ingredients": [
+   "Haricot vert",
+   "Oignon",
+   "Porcini"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Caviar vert saumuré",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 185,
+  "prix": 77,
+  "ingredients": [
+   "Caviar vert",
+   "Cristal de sel",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Chou-fleur saumuré",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 269,
+  "prix": 84,
+  "ingredients": [
+   "Chou-fleur",
+   "Cristal de sel",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Courgerond farci",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 980,
+  "prix": 225,
+  "ingredients": [
+   "Courgerond",
+   "Ail",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Escargot aquatique",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 581,
+  "prix": 182,
+  "ingredients": [
+   "Escargot trompette",
+   "Ail",
+   "Cristal de sel"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Haricots verts saumurés",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 246,
+  "prix": 341,
+  "ingredients": [
+   "Haricot vert",
+   "Cristal de sel",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Moules à la vapeur à l'ail",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 825,
+  "prix": 413,
+  "ingredients": [
+   "Moule",
+   "Ail",
+   "Oignon"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Pain aux graines de chia",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 478,
+  "prix": 122,
+  "ingredients": [
+   "Blé",
+   "Œuf d'oiseau-pelle",
+   "Graine de chia"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Pain sans levure et feta",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 309,
+  "prix": 135,
+  "ingredients": [
+   "Blé",
+   "Féta feuillet",
+   "Cristal de sel"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Pâtes au Bernard-l'hermite",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 2829,
+  "prix": 1100,
+  "ingredients": [
+   "Blé",
+   "Épice au choix",
+   "Bernard-l'hermite à chapeau de sorcier"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Porcini farci au courgerond",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 400,
+  "prix": 250,
+  "ingredients": [
+   "Porcini",
+   "Poivre noir",
+   "Courgerond"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Porcini farcis au radicchio",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 677,
+  "prix": 370,
+  "ingredients": [
+   "Porcini",
+   "Poivre noir",
+   "Radicchio"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Porcini farcis aux choux de Bruxelles",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1063,
+  "prix": 235,
+  "ingredients": [
+   "Porcini",
+   "Poivre noir",
+   "Chou de Bruxelles"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Radicchio saumuré",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 474,
+  "prix": 226,
+  "ingredients": [
+   "Radicchio",
+   "Cristal de sel",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Radis saumuré",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 314,
+  "prix": 235,
+  "ingredients": [
+   "Radis",
+   "Cristal de sel",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Salade électrique au radicchio et au kaki",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1176,
+  "prix": 303,
+  "ingredients": [
+   "Épice foudroyante",
+   "Radicchio",
+   "Kaki"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Carottes glacées au miel",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 944,
+  "prix": 362,
+  "ingredients": [
+   "Corail de miel",
+   "Carotte",
+   "Aneth"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Eton Mess",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1994,
+  "prix": 407,
+  "ingredients": [
+   "Groseilles",
+   "Pêche à aiguilles",
+   "Œuf"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Hors d'œuvre au chou frisé écarlate et au fromage",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 695,
+  "prix": 294,
+  "ingredients": [
+   "Blé",
+   "Fromage",
+   "Chou frisé écarlate"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Pancakes au miel",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 1263,
+  "prix": 555,
+  "ingredients": [
+   "Blé",
+   "Œuf",
+   "Corail de miel"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Sandwich au jambon d'Horace",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 643,
+  "prix": 326,
+  "ingredients": [
+   "Fromage",
+   "Légume au choix",
+   "Orge perlé"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Sélection de petit déjeuner feutrée",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 2597,
+  "prix": 1000,
+  "ingredients": [
+   "Champignon bouton",
+   "Œuf",
+   "Combattant à nageoire satinée"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Spaetzle à la betterave",
+  "categorie": "Plat principal",
+  "etoiles": 3,
+  "energie": 778,
+  "prix": 339,
+  "ingredients": [
+   "Blé",
+   "Betterave",
+   "Œuf"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Baudroie grillée à la poêle",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 4194,
+  "prix": 2500,
+  "ingredients": [
+   "Baudroie",
+   "Tomate",
+   "Courgette",
+   "Pomme de terre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Brochette végétariennes",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 767,
+  "prix": 427,
+  "ingredients": [
+   "Champignon",
+   "Courgette",
+   "Oignon",
+   "Poivron"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Casserole de légumes",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1810,
+  "prix": 340,
+  "ingredients": [
+   "Légume au choix",
+   "Légume au choix",
+   "Fromage",
+   "Épice au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Chaudrée",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1186,
+  "prix": 613,
+  "ingredients": [
+   "Fruit de mer au choix",
+   "Lait",
+   "Légume au choix",
+   "Pomme de terre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Doré jaune en papillote",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 3689,
+  "prix": 1700,
+  "ingredients": [
+   "Doré jaune",
+   "Basilic",
+   "Origan",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Esturgeon poché au beurre de basilic",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 4961,
+  "prix": 2200,
+  "ingredients": [
+   "Esturgeon blanc",
+   "Basilic",
+   "Citron",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Festin de lionne",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 2368,
+  "prix": 109,
+  "ingredients": [
+   "Champignon",
+   "Tomate",
+   "Origan",
+   "Poisson Ici et Là"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Fish 'n' Chips",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 697,
+  "prix": 392,
+  "ingredients": [
+   "Poisson au choix",
+   "Blé",
+   "Colza",
+   "Pomme de terre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Latkes",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1280,
+  "prix": 937,
+  "ingredients": [
+   "Oignon",
+   "Pomme de terre",
+   "Colza",
+   "Œuf"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Maki au thon",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 984,
+  "prix": 366,
+  "ingredients": [
+   "Thon",
+   "Soja",
+   "Algue",
+   "Riz"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Omelette au basilic",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 2035,
+  "prix": 982,
+  "ingredients": [
+   "Basilic",
+   "Œuf",
+   "Fromage",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Pâtes au poisson",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1282,
+  "prix": 475,
+  "ingredients": [
+   "Poisson au choix",
+   "Ail",
+   "Blé",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Pétoncles crémeux à l'ail",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1844,
+  "prix": 499,
+  "ingredients": [
+   "Pétoncle",
+   "Citron",
+   "Beurre",
+   "Ail"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Pizza aux champignons",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 837,
+  "prix": 351,
+  "ingredients": [
+   "Champignon",
+   "Blé",
+   "Tomate",
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Pizza margherita",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 818,
+  "prix": 336,
+  "ingredients": [
+   "Épice au choix",
+   "Tomate",
+   "Fromage",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade délicieuse",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 650,
+  "prix": 292,
+  "ingredients": [
+   "Laitue",
+   "Concombre",
+   "Légume au choix",
+   "Épice au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sole meunière",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 2337,
+  "prix": 637,
+  "ingredients": [
+   "Sole",
+   "Blé",
+   "Beurre",
+   "Citron"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sushi au thon",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1206,
+  "prix": 413,
+  "ingredients": [
+   "Thon",
+   "Algue",
+   "Riz",
+   "Gingembre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Taco végétarien",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 925,
+  "prix": 423,
+  "ingredients": [
+   "Maïs",
+   "Piment",
+   "Fromage",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tacos de poisson",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1171,
+  "prix": 448,
+  "ingredients": [
+   "Poisson au choix",
+   "Maïs",
+   "Piment",
+   "Fromage"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Udon sucré",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1427,
+  "prix": 180,
+  "ingredients": [
+   "Fruit de Dreamlight",
+   "Riz",
+   "Fruit de mer au choix",
+   "Aliment sucré"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Burrito",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 809,
+  "prix": 473,
+  "ingredients": [
+   "Protéine au choix",
+   "Blé",
+   "Haricots",
+   "Cumin"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Club sandwich",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1075,
+  "prix": 1100,
+  "ingredients": [
+   "Porc",
+   "Volaille",
+   "Blé",
+   "Tomate"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Coq en barbouille",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 880,
+  "prix": 1000,
+  "ingredients": [
+   "Volaille",
+   "Oignon",
+   "Légume au choix",
+   "Raisin"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Cuisse de dinde",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1123,
+  "prix": 884,
+  "ingredients": [
+   "Volaille",
+   "Cumin",
+   "Paprika",
+   "Agave"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Hamburger au fromage",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1113,
+  "prix": 1700,
+  "ingredients": [
+   "Gibier",
+   "Blé",
+   "Légume au choix",
+   "Fromage"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Linguini au pesto",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1063,
+  "prix": 438,
+  "ingredients": [
+   "Blé",
+   "Beurre",
+   "Ail",
+   "Origan"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Maki rouleur du dragon",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 3193,
+  "prix": 1600,
+  "ingredients": [
+   "Anguille électrique",
+   "Riz",
+   "Algue",
+   "Légume au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Meilleur poisson de tous les temps",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 4420,
+  "prix": 1400,
+  "ingredients": [
+   "Escargot de mer",
+   "Poisson-robot",
+   "Céleri",
+   "Cumin"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Moqueca de Pirarucu",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 3453,
+  "prix": 1000,
+  "ingredients": [
+   "Pirarucu",
+   "Légume au choix",
+   "Légume au choix",
+   "Noix de coco"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Ormeaux braisés",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 2500,
+  "prix": 570,
+  "ingredients": [
+   "Escargot de mer",
+   "Champignon",
+   "Ail"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Osso buco osseaux",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1192,
+  "prix": 272,
+  "ingredients": [
+   "Poisson-squelette",
+   "Céleri",
+   "Légume au choix",
+   "Raisin"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Porc effiloché",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1021,
+  "prix": 738,
+  "ingredients": [
+   "Porc",
+   "Oignon",
+   "Tomate",
+   "Origan"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Poulet épicé",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1229,
+  "prix": 1100,
+  "ingredients": [
+   "Volaille",
+   "Oignon",
+   "Ail",
+   "Épice au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Poulet tandoori",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1199,
+  "prix": 964,
+  "ingredients": [
+   "Piment",
+   "Volaille",
+   "Cumin",
+   "Paprika"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Pousses de bambou braisées",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 898,
+  "prix": 401,
+  "ingredients": [
+   "Bambou",
+   "Colza",
+   "Soja",
+   "Gingembre"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Ragoût de la Voie lactée",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1872,
+  "prix": 733,
+  "ingredients": [
+   "Truite arc-en-ciel",
+   "Lait",
+   "Navet",
+   "Figue cosmique"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Rouleau Rhapsodie",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 335,
+  "prix": 301,
+  "ingredients": [
+   "Riz",
+   "Yuccarina",
+   "Algue",
+   "Légume au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Souvlaki",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1816,
+  "prix": 949,
+  "ingredients": [
+   "Volaille",
+   "Citron",
+   "Menthe",
+   "Paprika"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Steak de hamburger",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 855,
+  "prix": 1700,
+  "ingredients": [
+   "Gibier",
+   "Pomme de terre",
+   "Légume au choix",
+   "Haricots"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Tourtière",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 814,
+  "prix": 1700,
+  "ingredients": [
+   "Gibier",
+   "Blé",
+   "Pomme de terre",
+   "Légume au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Crabe ésotérique à l'ail",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 3250,
+  "prix": 1300,
+  "ingredients": [
+   "Bernard-l'hermite à chapeau de sorcier",
+   "Ail",
+   "Cristal de sel",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Crème aux graines de chia",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 742,
+  "prix": 425,
+  "ingredients": [
+   "Graine de chia",
+   "Rhubarbe",
+   "Cannelle",
+   "Sucrerie au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Cullen shink au poisson loup",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1681,
+  "prix": 736,
+  "ingredients": [
+   "Yaourt",
+   "Loup de mer",
+   "Pomme de terre",
+   "Oignon"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Œufs d'oiseau-pelle Bénédicte",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1522,
+  "prix": 420,
+  "ingredients": [
+   "Grain élyséen",
+   "Œuf d'oiseau-pelle",
+   "Fraise spirale",
+   "Cristal de sel"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Pancake au caviar vert et aux graines de chia",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 549,
+  "prix": 162,
+  "ingredients": [
+   "Blé",
+   "Graine de chia",
+   "Œuf d'oiseau-pelle",
+   "Caviar vert"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Pancake au kaki et aux graines de chia",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1072,
+  "prix": 169,
+  "ingredients": [
+   "Blé",
+   "Graine de chia",
+   "Œuf d'oiseau-pelle",
+   "Kaki"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Pancake aux fraises spirale et aux graines de chia",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1452,
+  "prix": 207,
+  "ingredients": [
+   "Blé",
+   "Graine de chia",
+   "Œuf d'oiseau-pelle",
+   "Fraise spirale"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Pancake aux physalis et aux graines de chia",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 749,
+  "prix": 214,
+  "ingredients": [
+   "Blé",
+   "Graine de chia",
+   "Œuf d'oiseau-pelle",
+   "Physalis"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Porridge garni à la pomme d'or",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1570,
+  "prix": 566,
+  "ingredients": [
+   "Avoine",
+   "Avoine",
+   "Pomme d'or",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Porridge garni à la rhubarbe",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1370,
+  "prix": 744,
+  "ingredients": [
+   "Avoine",
+   "Avoine",
+   "Rhubarbe",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Porridge garni au caviar vert",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1142,
+  "prix": 431,
+  "ingredients": [
+   "Avoine",
+   "Avoine",
+   "Caviar vert",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Porridge garni au melon miel",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1328,
+  "prix": 588,
+  "ingredients": [
+   "Avoine",
+   "Avoine",
+   "Melon miel",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Porridge garni aux kakis",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 1665,
+  "prix": 438,
+  "ingredients": [
+   "Avoine",
+   "Avoine",
+   "Kaki",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Salade d'algues",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 382,
+  "prix": 365,
+  "ingredients": [
+   "Légume au choix",
+   "Radis",
+   "Caviar vert",
+   "Poivre noir"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Salade d'orge",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 453,
+  "prix": 280,
+  "ingredients": [
+   "Orge",
+   "Radis",
+   "Chou-fleur",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Un thé des plus curieux",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 2377,
+  "prix": 345,
+  "ingredients": [
+   "Yaourt",
+   "Fraise spirale",
+   "Cristal de sel",
+   "Baie acidulée"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Yaourt de petit déjeuner garni",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 2425,
+  "prix": 508,
+  "ingredients": [
+   "Yaourt",
+   "Avoine",
+   "Fraise spirale",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Bento amical",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 3877,
+  "prix": 2700,
+  "ingredients": [
+   "Poisson tigre",
+   "Chou frisé écarlate",
+   "Corail de miel",
+   "Légume au choix"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Minuscules cupcakes 101 dalmatiens",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 862,
+  "prix": 460,
+  "ingredients": [
+   "Œuf",
+   "Blé",
+   "Canne à sucre",
+   "Grains de café chocolat foncé"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Potage à la citrouille dans un bol de pain",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 4153,
+  "prix": 3900,
+  "ingredients": [
+   "Lait",
+   "Citrouille",
+   "Poisson tigre",
+   "Blé khorasan féerique"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Service à thé du goûter",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 985,
+  "prix": 235,
+  "ingredients": [
+   "Légume au choix",
+   "Pêche à aiguilles",
+   "Grains de café chocolat foncé",
+   "Orge perlé"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Stargazy Pie",
+  "categorie": "Plat principal",
+  "etoiles": 4,
+  "energie": 5000,
+  "prix": 1900,
+  "ingredients": [
+   "Combattant à nageoire satinée",
+   "Escargot mètre ruban",
+   "Blé",
+   "Oktobar"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Bouillabaisse",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 2114,
+  "prix": 671,
+  "ingredients": [
+   "Fruit de mer au choix",
+   "Fruit de mer au choix",
+   "Crevette",
+   "Tomate",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Bouillie de riz de Mushu",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1658,
+  "prix": 753,
+  "ingredients": [
+   "Riz",
+   "Œuf",
+   "Champignon",
+   "Ail",
+   "Gingembre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Burger au thon",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1922,
+  "prix": 491,
+  "ingredients": [
+   "Thon",
+   "Oignon",
+   "Citron",
+   "Blé",
+   "Légume au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gombo",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 2226,
+  "prix": 1000,
+  "ingredients": [
+   "Okra",
+   "Crevette",
+   "Piment",
+   "Tomate",
+   "Oignon"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Paëlla de cavalos",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 4550,
+  "prix": 1700,
+  "ingredients": [
+   "Cavalos",
+   "Crevette",
+   "Fruit de mer au choix",
+   "Tomate",
+   "Riz"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Pizza grecque",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1152,
+  "prix": 630,
+  "ingredients": [
+   "Épice au choix",
+   "Tomate",
+   "Oignon",
+   "Fromage",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Pizza végétarienne",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 754,
+  "prix": 350,
+  "ingredients": [
+   "Légume au choix",
+   "Légume au choix",
+   "Tomate",
+   "Fromage",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Poisson créole",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 822,
+  "prix": 280,
+  "ingredients": [
+   "Poisson au choix",
+   "Légume au choix",
+   "Ail",
+   "Riz",
+   "Tomate"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Ratatouille",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1572,
+  "prix": 914,
+  "ingredients": [
+   "Tomate",
+   "Aubergine",
+   "Courgette",
+   "Oignon",
+   "Épice au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade méditerranéenne",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 976,
+  "prix": 605,
+  "ingredients": [
+   "Concombre",
+   "Tomate",
+   "Oignon",
+   "Laitue",
+   "Épice au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade ranch",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 714,
+  "prix": 396,
+  "ingredients": [
+   "Laitue",
+   "Poivron",
+   "Maïs",
+   "Tomate",
+   "Oignon"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sandwich au homard",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 4928,
+  "prix": 1900,
+  "ingredients": [
+   "Homard",
+   "Blé",
+   "Citron",
+   "Beurre",
+   "Ail"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Saumon teriyaki",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1726,
+  "prix": 637,
+  "ingredients": [
+   "Soja",
+   "Saumon",
+   "Canne à sucre",
+   "Riz",
+   "Gingembre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Steak de poisson spectral",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 3282,
+  "prix": 349,
+  "ingredients": [
+   "Poisson Ici et Là",
+   "Citron",
+   "Asperges",
+   "Poivron",
+   "Origan"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Biryani",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1468,
+  "prix": 1000,
+  "ingredients": [
+   "Volaille",
+   "Riz",
+   "Cannelle",
+   "Cumin",
+   "Menthe"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Bouillab-en-ciel",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 4174,
+  "prix": 2000,
+  "ingredients": [
+   "Crevette prismatique",
+   "Fruit de mer au choix",
+   "Truite arc-en-ciel",
+   "Tomate",
+   "Légume au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Brandade de morue",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 2336,
+  "prix": 757,
+  "ingredients": [
+   "Morue",
+   "Pomme de terre",
+   "Lait",
+   "Citron",
+   "Ail"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Fajitas fabuleuses",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 852,
+  "prix": 851,
+  "ingredients": [
+   "Volaille",
+   "Blé",
+   "Légume au choix",
+   "Légume au choix",
+   "Cumin"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Hamburger royal",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1670,
+  "prix": 2300,
+  "ingredients": [
+   "Porc",
+   "Gibier",
+   "Blé",
+   "Légume au choix",
+   "Fromage"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Mélange du bayou",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 4238,
+  "prix": 2400,
+  "ingredients": [
+   "Crevette prismatique",
+   "Riz",
+   "Céleri",
+   "Beurre",
+   "Épice au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Pizza hawaïenne",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1506,
+  "prix": 1500,
+  "ingredients": [
+   "Porc",
+   "Blé",
+   "Tomate",
+   "Fromage",
+   "Ananas"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Poulet au beurre",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 2142,
+  "prix": 1200,
+  "ingredients": [
+   "Volaille",
+   "Tomate",
+   "Beurre",
+   "Citron",
+   "Cumin"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Ragoût de sable",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 5000,
+  "prix": 2200,
+  "ingredients": [
+   "Poisson des dunes",
+   "Poisson des sables",
+   "Légume au choix",
+   "Ver des sables",
+   "Épice au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Sauté aigre-doux",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 2350,
+  "prix": 2100,
+  "ingredients": [
+   "Volaille",
+   "Brocoli",
+   "Colza",
+   "Fantasmangue",
+   "Ananas"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Shawarma",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 2048,
+  "prix": 1800,
+  "ingredients": [
+   "Gibier",
+   "Riz",
+   "Citron",
+   "Cannelle",
+   "Ail"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Shish Taouk",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1928,
+  "prix": 1100,
+  "ingredients": [
+   "Volaille",
+   "Riz",
+   "Citron",
+   "Ail",
+   "Origan"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Taco à la viande",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1112,
+  "prix": 1700,
+  "ingredients": [
+   "Gibier",
+   "Piment",
+   "Maïs",
+   "Légume au choix",
+   "Cumin"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Brochette chimérique",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 2720,
+  "prix": 481,
+  "ingredients": [
+   "Hippocampe",
+   "Escargot trompette",
+   "Poisson volant",
+   "Chou de Bruxelles",
+   "Poisson au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Cepelinai à l'hippocampe",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 2634,
+  "prix": 925,
+  "ingredients": [
+   "Hippocampe",
+   "Oignon",
+   "Pomme de terre",
+   "Fraise spirale",
+   "Poivre noir"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Kebab de carpe koï grillée",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1428,
+  "prix": 417,
+  "ingredients": [
+   "Carpe koï",
+   "Blé",
+   "Concombre",
+   "Olive",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Orge et légumes au four",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1422,
+  "prix": 476,
+  "ingredients": [
+   "Orge",
+   "Chou de Bruxelles",
+   "Oignon",
+   "Légume au choix",
+   "Féta feuillet"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Pizza d'Argos",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1384,
+  "prix": 668,
+  "ingredients": [
+   "Grain élyséen",
+   "Oignon",
+   "Légume au choix",
+   "Féta feuillet",
+   "Olive"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Poisson au four à la grecque",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 5000,
+  "prix": 2800,
+  "ingredients": [
+   "Périophtalme stygien",
+   "Grain élyséen",
+   "Olive",
+   "Cristal de sel",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Quenelles de poisson volant",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 890,
+  "prix": 325,
+  "ingredients": [
+   "Poisson volant",
+   "Porcini",
+   "Légume au choix",
+   "Protéine au choix",
+   "Féta feuillet"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Risotto aux moules",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1488,
+  "prix": 377,
+  "ingredients": [
+   "Moule",
+   "Riz",
+   "Olive",
+   "Ail",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Salade caprese",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1092,
+  "prix": 244,
+  "ingredients": [
+   "Légume au choix",
+   "Féta feuillet",
+   "Olive",
+   "Cristal de sel",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Salade grecque",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1476,
+  "prix": 654,
+  "ingredients": [
+   "Concombre",
+   "Radis",
+   "Légume au choix",
+   "Féta feuillet",
+   "Olive"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Spanakopita",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 982,
+  "prix": 561,
+  "ingredients": [
+   "Oignon",
+   "Épinard",
+   "Féta feuillet",
+   "Ail",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Diplomate rétro à la pêche",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1752,
+  "prix": 544,
+  "ingredients": [
+   "Pêche à aiguilles",
+   "Lait",
+   "Orge perlé",
+   "Canne à sucre",
+   "Fruit au choix"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Gelée à l'ananas poissonneux",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 5000,
+  "prix": 2700,
+  "ingredients": [
+   "Crabe",
+   "Poisson en gelée",
+   "Chou frisé écarlate",
+   "Escargot mètre ruban",
+   "Poisson au choix"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Pizza de fée",
+  "categorie": "Plat principal",
+  "etoiles": 5,
+  "energie": 1268,
+  "prix": 718,
+  "ingredients": [
+   "Tomate",
+   "Fromage",
+   "Paillettes féeriques",
+   "Champignon bouton",
+   "Blé khorasan féerique"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Bonbon",
+  "categorie": "Dessert",
+  "etoiles": 1,
+  "energie": 123,
+  "prix": 22,
+  "ingredients": [
+   "Aliment sucré"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Granité nature",
+  "categorie": "Dessert",
+  "etoiles": 1,
+  "energie": 202,
+  "prix": 180,
+  "ingredients": [
+   "Glace pilée"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Milk Shake",
+  "categorie": "Dessert",
+  "etoiles": 1,
+  "energie": 142,
+  "prix": 82,
+  "ingredients": [
+   "Produit laitier"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade de fruits",
+  "categorie": "Dessert",
+  "etoiles": 1,
+  "energie": 450,
+  "prix": 25,
+  "ingredients": [
+   "Fruit au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Bonbon à la menthe",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 391,
+  "prix": 128,
+  "ingredients": [
+   "Menthe",
+   "Canne à sucre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gâteaux au pain d'épices de Minnie",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 379,
+  "prix": 132,
+  "ingredients": [
+   "Blé",
+   "Gingembre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Glace pilée sucrée",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 510,
+  "prix": 219,
+  "ingredients": [
+   "Glace pilée",
+   "Aliment sucré"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Pommes au caramel",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 638,
+  "prix": 56,
+  "ingredients": [
+   "Canne à sucre",
+   "Pomme"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sorbet à la menthe",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 695,
+  "prix": 299,
+  "ingredients": [
+   "Glace pilée",
+   "Menthe"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sorbet au citron",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 1112,
+  "prix": 237,
+  "ingredients": [
+   "Glace pilée",
+   "Citron"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sorbet aux fruits",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 857,
+  "prix": 222,
+  "ingredients": [
+   "Glace pilée",
+   "Fruit au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Thé aux perles",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 714,
+  "prix": 323,
+  "ingredients": [
+   "Canne à sucre",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Barbe à papa",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 298,
+  "prix": 56,
+  "ingredients": [
+   "Agave",
+   "Canne à sucre"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Compote de pommes",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 823,
+  "prix": 71,
+  "ingredients": [
+   "Pomme",
+   "Cannelle"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Croissant",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 566,
+  "prix": 249,
+  "ingredients": [
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Dattes farcies",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 1495,
+  "prix": 91,
+  "ingredients": [
+   "Amandes",
+   "Dattes"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Glace à l'italienne à l'ananas",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 717,
+  "prix": 886,
+  "ingredients": [
+   "Glace pilée",
+   "Ananas"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Macarons français",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 1461,
+  "prix": 340,
+  "ingredients": [
+   "Amandes",
+   "Œuf"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Muffin aux bananes sans sucre",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 677,
+  "prix": 39,
+  "ingredients": [
+   "Blé",
+   "Banane"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Muffin aux fruits sans sucre",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 117,
+  "prix": 13,
+  "ingredients": [
+   "Blé",
+   "Fruit au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Muffin aux myrtilles sans sucre",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 677,
+  "prix": 39,
+  "ingredients": [
+   "Blé",
+   "Myrtille"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Pop Corn",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 201,
+  "prix": 161,
+  "ingredients": [
+   "Maïs",
+   "Colza"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Sandwich à la confiture de framboise",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 549,
+  "prix": 29,
+  "ingredients": [
+   "Blé",
+   "Framboise"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Taiyaki",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 374,
+  "prix": 102,
+  "ingredients": [
+   "Poisson des sables",
+   "Haricots"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Tofu sucré",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 183,
+  "prix": 100,
+  "ingredients": [
+   "Soja",
+   "Fruit au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Délice d'Aphrodite",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 1070,
+  "prix": 234,
+  "ingredients": [
+   "Pomme d'or",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Dessert aux baies acidulées",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 1325,
+  "prix": 143,
+  "ingredients": [
+   "Baie acidulée",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Fondue acidulée au kaki",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 1240,
+  "prix": 84,
+  "ingredients": [
+   "Baie acidulée",
+   "Kaki"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Fondue acidulée au melon miel",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 939,
+  "prix": 214,
+  "ingredients": [
+   "Baie acidulée",
+   "Melon miel"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Fondue acidulée aux fraises spirales",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 1580,
+  "prix": 117,
+  "ingredients": [
+   "Baie acidulée",
+   "Fraise spirale"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Fondue acidulée aux physalis",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 951,
+  "prix": 123,
+  "ingredients": [
+   "Baie acidulée",
+   "Physalis"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Yaourt à la vanille",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 789,
+  "prix": 221,
+  "ingredients": [
+   "Yaourt",
+   "Vanille"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Yaourt piquant",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 602,
+  "prix": 175,
+  "ingredients": [
+   "Yaourt",
+   "Épice au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Pain féerique",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 360,
+  "prix": 243,
+  "ingredients": [
+   "Blé khorasan féerique",
+   "Paillettes féeriques"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Queues de tigrou",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 437,
+  "prix": 253,
+  "ingredients": [
+   "Fruit sucette",
+   "Paillettes féeriques"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Sculpture en sucre de betterave",
+  "categorie": "Dessert",
+  "etoiles": 2,
+  "energie": 223,
+  "prix": 51,
+  "ingredients": [
+   "Betterave",
+   "Canne à sucre"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Biscuit « Mon héros »",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 679,
+  "prix": 294,
+  "ingredients": [
+   "Blé",
+   "Beurre",
+   "Aliment sucré"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Biscuits",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 679,
+  "prix": 294,
+  "ingredients": [
+   "Blé",
+   "Canne à sucre",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Chocolat chaud",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1563,
+  "prix": 401,
+  "ingredients": [
+   "Canne à sucre",
+   "Lait",
+   "Fève de cacao"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Chocolat du printemps",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1392,
+  "prix": 254,
+  "ingredients": [
+   "Œuf jaune",
+   "Canne à sucre",
+   "Fève de cacao"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Crème glacée",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1158,
+  "prix": 558,
+  "ingredients": [
+   "Glace pilée",
+   "Canne à sucre",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Crème glacée de rêve",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1976,
+  "prix": 558,
+  "ingredients": [
+   "Fruit de Dreamlight",
+   "Lait",
+   "Glace pilée"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gâteau à la banane",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1227,
+  "prix": 308,
+  "ingredients": [
+   "Banane",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Glace à l'eau",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 987,
+  "prix": 265,
+  "ingredients": [
+   "Glace pilée",
+   "Canne à sucre",
+   "Fruit au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Granité acide",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1257,
+  "prix": 282,
+  "ingredients": [
+   "Glace pilée",
+   "Citron",
+   "Canne à sucre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Racinette",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 690,
+  "prix": 250,
+  "ingredients": [
+   "Gingembre",
+   "Canne à sucre",
+   "Vanille"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Salade de fruits rouges",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 2210,
+  "prix": 139,
+  "ingredients": [
+   "Framboise",
+   "Myrtille",
+   "Groseille"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sorbet à la pomme",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1077,
+  "prix": 271,
+  "ingredients": [
+   "Glace pilée",
+   "Pomme",
+   "Canne à sucre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tarte aux cerises",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1497,
+  "prix": 326,
+  "ingredients": [
+   "Cerise",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tarte aux fruits rouges",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1047,
+  "prix": 297,
+  "ingredients": [
+   "Fruit au choix",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tarte aux groseilles de Blanche Neige",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1677,
+  "prix": 338,
+  "ingredients": [
+   "Groseille",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tarte aux myrtilles",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1227,
+  "prix": 308,
+  "ingredients": [
+   "Myrtille",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tarte aux pommes",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1137,
+  "prix": 303,
+  "ingredients": [
+   "Pomme",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tarte féerique",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1497,
+  "prix": 324,
+  "ingredients": [
+   "Fruit de Dreamlight",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Thé aux perles à la framboise",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1203,
+  "prix": 377,
+  "ingredients": [
+   "Canne à sucre",
+   "Lait",
+   "Framboise"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Thé aux perles à la groseille",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1833,
+  "prix": 418,
+  "ingredients": [
+   "Canne à sucre",
+   "Lait",
+   "Groseille"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Thé aux perles à la menthe",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1032,
+  "prix": 460,
+  "ingredients": [
+   "Canne à sucre",
+   "Lait",
+   "Menthe"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Thé aux perles à la noix de coco",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1653,
+  "prix": 406,
+  "ingredients": [
+   "Canne à sucre",
+   "Lait",
+   "Noix de coco"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Truc gris",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1046,
+  "prix": 175,
+  "ingredients": [
+   "Produit laitier",
+   "Canne à sucre",
+   "Fève de cacao"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Charlotte",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1704,
+  "prix": 69,
+  "ingredients": [
+   "Blé",
+   "Fraise",
+   "Agave"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Donut glacé",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 760,
+  "prix": 336,
+  "ingredients": [
+   "Blé",
+   "Œuf",
+   "Aliment sucré"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Gâteau aux fraises",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 2118,
+  "prix": 342,
+  "ingredients": [
+   "Blé",
+   "Œuf",
+   "Fraise"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Larves gastronomiques",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 5000,
+  "prix": 2000,
+  "ingredients": [
+   "Escargot de mer",
+   "Ver des sables",
+   "Scorpion"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Maamouls",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1614,
+  "prix": 100,
+  "ingredients": [
+   "Blé",
+   "Amandes",
+   "Dattes"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Macarons à la confiture",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1581,
+  "prix": 378,
+  "ingredients": [
+   "Amandes",
+   "Œuf",
+   "Fruit au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Macarons à la vanille",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1787,
+  "prix": 436,
+  "ingredients": [
+   "Amandes",
+   "Œuf",
+   "Vanille"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Macarons au caramel",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1724,
+  "prix": 401,
+  "ingredients": [
+   "Amandes",
+   "Œuf",
+   "Agave"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Macarons au chocolat",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 2354,
+  "prix": 419,
+  "ingredients": [
+   "Amandes",
+   "Œuf",
+   "Fève de cacao"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Macarons épicés",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1796,
+  "prix": 475,
+  "ingredients": [
+   "Piment",
+   "Amandes",
+   "Œuf"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Milk-shake aux fruits",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1113,
+  "prix": 544,
+  "ingredients": [
+   "Glace pilée",
+   "Lait",
+   "Fruit au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Milk-shake stellaire",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1169,
+  "prix": 562,
+  "ingredients": [
+   "Glace pilée",
+   "Lait",
+   "Figue cosmique"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Pop corn sucré",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 390,
+  "prix": 209,
+  "ingredients": [
+   "Maïs",
+   "Colza",
+   "Agave"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Salade basilic et fruits rouges",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 2300,
+  "prix": 142,
+  "ingredients": [
+   "Myrtille",
+   "Basilic",
+   "Fraise"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Tarte aux fraises",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 2037,
+  "prix": 300,
+  "ingredients": [
+   "Blé",
+   "Beurre",
+   "Fraise"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Tarte tatin aux poires",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1218,
+  "prix": 345,
+  "ingredients": [
+   "Blé",
+   "Œuf",
+   "Poire imbriquée"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Thé aux perles à la fantasmangue",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1833,
+  "prix": 418,
+  "ingredients": [
+   "Lait",
+   "Fantasmangue",
+   "Canne à sucre"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Thé aux perles au melon",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 911,
+  "prix": 478,
+  "ingredients": [
+   "Lait",
+   "Melon",
+   "Canne à sucre"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Riz au lait",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 579,
+  "prix": 293,
+  "ingredients": [
+   "Avoine",
+   "Riz",
+   "Vanille"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Tarte aux baies acidulées",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1164,
+  "prix": 170,
+  "ingredients": [
+   "Blé",
+   "Œuf d'oiseau-pelle",
+   "Baie acidulée"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Tarte aux kakis",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 984,
+  "prix": 149,
+  "ingredients": [
+   "Blé",
+   "Œuf d'oiseau-pelle",
+   "Kaki"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Tarte aux pommes d'or",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 894,
+  "prix": 268,
+  "ingredients": [
+   "Blé",
+   "Œuf d'oiseau-pelle",
+   "Pomme d'or"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Baguette de fée",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1028,
+  "prix": 229,
+  "ingredients": [
+   "Carambole",
+   "Fruit sucette",
+   "Fruit au choix"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Biscuit de la vallée à la groseille",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 1895,
+  "prix": 676,
+  "ingredients": [
+   "Groseilles",
+   "Œuf",
+   "Lait"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Pile de brownies à la betterave",
+  "categorie": "Dessert",
+  "etoiles": 3,
+  "energie": 826,
+  "prix": 363,
+  "ingredients": [
+   "Betterave",
+   "Œuf",
+   "Saveur au choix"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Bûche de Noël",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 2147,
+  "prix": 213,
+  "ingredients": [
+   "Blé",
+   "Fève de cacao",
+   "Vanille",
+   "Cerise"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Beignets",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 912,
+  "prix": 524,
+  "ingredients": [
+   "Colza",
+   "Blé",
+   "Œuf",
+   "Canne à sucre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Biscuits aux pépites de chocolat",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1569,
+  "prix": 373,
+  "ingredients": [
+   "Fève de cacao",
+   "Blé",
+   "Canne à sucre",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Biscuits du pays des merveilles",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 970,
+  "prix": 406,
+  "ingredients": [
+   "Beurre",
+   "Canne à sucre",
+   "Vanille",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Cake aux fruits",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1511,
+  "prix": 96,
+  "ingredients": [
+   "Blé",
+   "Fruit au choix",
+   "Fruit au choix",
+   "Fruit au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Cheesecake",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1161,
+  "prix": 332,
+  "ingredients": [
+   "Fromage",
+   "Blé",
+   "Canne à sucre",
+   "Fruit au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Chocolat à la menthe",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1827,
+  "prix": 490,
+  "ingredients": [
+   "Menthe",
+   "Canne à sucre",
+   "Beurre",
+   "Fève de cacao"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Crème glacée à la banane",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1884,
+  "prix": 641,
+  "ingredients": [
+   "Glace pilée",
+   "Banane",
+   "Lait",
+   "Canne à sucre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Crème glacée à la noix de coco",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 2169,
+  "prix": 661,
+  "ingredients": [
+   "Glace pilée",
+   "Lait",
+   "Canne à sucre",
+   "Noix de coco"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Crème glacée à la vanille",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1475,
+  "prix": 688,
+  "ingredients": [
+   "Glace pilée",
+   "Lait",
+   "Canne à sucre",
+   "Vanille"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Crème glacée au chocolat",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 2074,
+  "prix": 678,
+  "ingredients": [
+   "Fève de cacao",
+   "Canne à sucre",
+   "Lait",
+   "Glace pilée"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Crêpe",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1624,
+  "prix": 768,
+  "ingredients": [
+   "Blé",
+   "Œuf",
+   "Lait",
+   "Vanille"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gâteau à la carotte",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 908,
+  "prix": 427,
+  "ingredients": [
+   "Carotte",
+   "Blé",
+   "Œuf",
+   "Canne à sucre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gâteau à la noix de coco",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1750,
+  "prix": 424,
+  "ingredients": [
+   "Noix de coco",
+   "Blé",
+   "Œuf",
+   "Canne à sucre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gaufres",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1455,
+  "prix": 706,
+  "ingredients": [
+   "Blé",
+   "Lait",
+   "Œuf",
+   "Aliment sucré"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gaufres à la confiture",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 202,
+  "prix": 24,
+  "ingredients": [
+   "Fruit au choix",
+   "Blé",
+   "Œuf",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gaufres au beurre de cacahuète",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1938,
+  "prix": 978,
+  "ingredients": [
+   "Cacahuète",
+   "Blé",
+   "Œuf",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gaufres au chocolat",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 2223,
+  "prix": 735,
+  "ingredients": [
+   "Fève de cacao",
+   "Blé",
+   "Œuf",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Glace à l'eau tropicale",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1989,
+  "prix": 347,
+  "ingredients": [
+   "Glace pilée",
+   "Canne à sucre",
+   "Noix de coco",
+   "Fruit au choix"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Guimauves grillées",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 3470,
+  "prix": 300,
+  "ingredients": [
+   "Guimauve rose",
+   "Guimauve rose",
+   "Guimauve bleue",
+   "Guimauve bleue"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Œufs mimosas de printemps",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1095,
+  "prix": 298,
+  "ingredients": [
+   "Œuf jaune",
+   "Œuf bleu",
+   "Œuf rose",
+   "Basilic"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "S'mores",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1832,
+  "prix": 156,
+  "ingredients": [
+   "Guimauve rose",
+   "Guimauve bleue",
+   "Blé",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Sorbet aux fruits rouges",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 2179,
+  "prix": 359,
+  "ingredients": [
+   "Glace pilée",
+   "Framboise",
+   "Groseille",
+   "Canne à sucre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tarte meringuée",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 2014,
+  "prix": 667,
+  "ingredients": [
+   "Citron",
+   "Blé",
+   "Œuf",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Cannoli",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1482,
+  "prix": 678,
+  "ingredients": [
+   "Blé",
+   "Fromage",
+   "Œuf",
+   "Vanille"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Crêpe en portefeuille",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1938,
+  "prix": 715,
+  "ingredients": [
+   "Blé",
+   "Œuf",
+   "Lait",
+   "Poire imbriquée"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Cupcakes",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1853,
+  "prix": 433,
+  "ingredients": [
+   "Blé",
+   "Œuf",
+   "Cerise",
+   "Agave"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Donut à la cannelle",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1094,
+  "prix": 406,
+  "ingredients": [
+   "Blé",
+   "Œuf",
+   "Cannelle",
+   "Aliment sucré"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Gâteau de lune",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 465,
+  "prix": 276,
+  "ingredients": [
+   "Blé",
+   "Colza",
+   "Haricots",
+   "Agave"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Kouign-Amann",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1358,
+  "prix": 610,
+  "ingredients": [
+   "Blé",
+   "Beurre",
+   "Beurre",
+   "Agave"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Makrout",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1157,
+  "prix": 254,
+  "ingredients": [
+   "Blé",
+   "Colza",
+   "Dattes",
+   "Cannelle"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Muffin explosion de fruits sans sucre",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 354,
+  "prix": 66,
+  "ingredients": [
+   "Blé",
+   "Fruit au choix",
+   "Fruit au choix",
+   "Agave"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Pain aux raisins",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 705,
+  "prix": 314,
+  "ingredients": [
+   "Blé",
+   "Beurre",
+   "Fruit au choix",
+   "Fruit au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Pastéis de Nata",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1645,
+  "prix": 774,
+  "ingredients": [
+   "Maïs",
+   "Œuf",
+   "Lait",
+   "Vanille"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Roulé à la cannelle",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1548,
+  "prix": 663,
+  "ingredients": [
+   "Blé",
+   "Beurre",
+   "Œuf",
+   "Cannelle"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Biscuits à la cannelle",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1037,
+  "prix": 256,
+  "ingredients": [
+   "Yaourt",
+   "Blé",
+   "Cannelle",
+   "Sucrerie au choix"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Biscuits à la foudre",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1009,
+  "prix": 308,
+  "ingredients": [
+   "Blé",
+   "Yaourt",
+   "Sucrerie au choix",
+   "Épice foudroyante"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Biscuits à la muscade",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1598,
+  "prix": 278,
+  "ingredients": [
+   "Blé",
+   "Yaourt",
+   "Sucrerie au choix",
+   "Noix de muscade"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Gâteau à la cannelle",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1330,
+  "prix": 348,
+  "ingredients": [
+   "Blé",
+   "Œuf d'oiseau-pelle",
+   "Cannelle",
+   "Yaourt"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Gâteau à la foudre",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1302,
+  "prix": 400,
+  "ingredients": [
+   "Blé",
+   "Œuf d'oiseau-pelle",
+   "Épice foudroyante",
+   "Yaourt"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Gâteau à la muscade",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1891,
+  "prix": 370,
+  "ingredients": [
+   "Blé",
+   "Œuf d'oiseau-pelle",
+   "Noix de muscade",
+   "Yaourt"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Tarte aux fraises et à la rhubarbe",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1344,
+  "prix": 184,
+  "ingredients": [
+   "Blé",
+   "Yaourt",
+   "Rhubarbe",
+   "Fraise spirale"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Biscuits linzer à la groseille",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1379,
+  "prix": 365,
+  "ingredients": [
+   "Groseilles",
+   "Canne à sucre",
+   "Blé",
+   "Beurre"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Gâteau dôme à la crème glacée de fée",
+  "categorie": "Dessert",
+  "etoiles": 4,
+  "energie": 1489,
+  "prix": 554,
+  "ingredients": [
+   "Blé khorasan féerique",
+   "Paillettes féeriques",
+   "Glace pilée",
+   "Groseilles"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Gâteau chaussure de fée",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2052,
+  "prix": 1200,
+  "ingredients": [
+   "Blé khorasan féerique",
+   "Corail de miel",
+   "Beurre",
+   "Œuf",
+   "Grains de café chocolat foncé"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "La Belle et les Betteraves Napoléon",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2782,
+  "prix": 1100,
+  "ingredients": [
+   "Beurre",
+   "Œuf",
+   "Lait",
+   "Groseilles",
+   "Betterave"
+  ],
+  "extension": "ranch"
+ },
+ {
+  "nom": "Banana Split",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2074,
+  "prix": 714,
+  "ingredients": [
+   "Glace pilée",
+   "Banane",
+   "Lait",
+   "Canne à sucre",
+   "Aliment sucré"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Bol d'œufs printaniers",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 1942,
+  "prix": 370,
+  "ingredients": [
+   "Œuf rose",
+   "Œuf jaune",
+   "Œuf bleu",
+   "Fève de cacao",
+   "Canne à sucre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Crème pâtissière et fruits",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2332,
+  "prix": 497,
+  "ingredients": [
+   "Fruit au choix",
+   "Fruit au choix",
+   "Fruit au choix",
+   "Lait",
+   "Canne à sucre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Cupcake à la framboise de la princesse Aurore",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 1990,
+  "prix": 738,
+  "ingredients": [
+   "Lait",
+   "Blé",
+   "Beurre",
+   "Canne à sucre",
+   "Framboise"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Cupcake de Minnie",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2040,
+  "prix": 745,
+  "ingredients": [
+   "Lait",
+   "Blé",
+   "Beurre",
+   "Canne à sucre",
+   "Pomme"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Cupcake de sirène",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 1690,
+  "prix": 785,
+  "ingredients": [
+   "Lait",
+   "Blé",
+   "Beurre",
+   "Canne à sucre",
+   "Pétoncle"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Cupcake de Spaceship Earth",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2440,
+  "prix": 772,
+  "ingredients": [
+   "Lait",
+   "Blé",
+   "Beurre",
+   "Canne à sucre",
+   "Noix de coco"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Cupcake de Stitch",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2140,
+  "prix": 751,
+  "ingredients": [
+   "Lait",
+   "Blé",
+   "Beurre",
+   "Canne à sucre",
+   "Myrtille"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gâteau d'anniversaire",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2310,
+  "prix": 749,
+  "ingredients": [
+   "Fève de cacao",
+   "Blé",
+   "Canne à sucre",
+   "Œuf",
+   "Beurre"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gâteau d'Aurore",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2030,
+  "prix": 786,
+  "ingredients": [
+   "Blé",
+   "Canne à sucre",
+   "Œuf",
+   "Fruit au choix",
+   "Lait"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Gâteau de mariage",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 1680,
+  "prix": 785,
+  "ingredients": [
+   "Beurre",
+   "Canne à sucre",
+   "Vanille",
+   "Œuf",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Maison en pain d'épices",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 1460,
+  "prix": 641,
+  "ingredients": [
+   "Blé",
+   "Gingembre",
+   "Canne à sucre",
+   "Vanille",
+   "Œuf"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Tarte au chocolat et à l'ail",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2458,
+  "prix": 783,
+  "ingredients": [
+   "Fromage",
+   "Fève de cacao",
+   "Ail",
+   "Œuf",
+   "Blé"
+  ],
+  "extension": "base"
+ },
+ {
+  "nom": "Red Velvet",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2458,
+  "prix": 783,
+  "ingredients": [
+   "Blé",
+   "Fromage",
+   "Œuf",
+   "Fève de cacao",
+   "Vanille"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Tarte aux baies piquantes",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2188,
+  "prix": 421,
+  "ingredients": [
+   "Blé",
+   "Beurre",
+   "Cactibaies",
+   "Fraise",
+   "Épice au choix"
+  ],
+  "extension": "rift"
+ },
+ {
+  "nom": "Biscuits au gingembre de Pimprenelle",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2596,
+  "prix": 443,
+  "ingredients": [
+   "Seigle féerique",
+   "Œuf d'oiseau-pelle",
+   "Gingembre",
+   "Baie acidulée",
+   "Noix de muscade"
+  ],
+  "extension": "vale"
+ },
+ {
+  "nom": "Gâteau de non anniversaire",
+  "categorie": "Dessert",
+  "etoiles": 5,
+  "energie": 2746,
+  "prix": 603,
+  "ingredients": [
+   "Seigle féerique",
+   "Œuf d'oiseau-pelle",
+   "Noix de muscade",
+   "Yaourt",
+   "Ambroisie"
+  ],
+  "extension": "vale"
+ }
+]

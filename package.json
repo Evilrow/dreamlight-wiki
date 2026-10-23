@@ -1,0 +1,34 @@
+{
+  "name": "dreamlight-wiki",
+  "productName": "Dreamlight Wiki",
+  "version": "1.0.0",
+  "description": "Guide Disney Dreamlight Valley classé par extension (animaux, objets, recettes, quêtes)",
+  "main": "electron/main.cjs",
+  "author": "Sébastien Gaulier",
+  "scripts": {
+    "dev": "node tools/dev.mjs",
+    "dev:web": "vite",
+    "build": "vite build",
+    "start": "vite build && electron .",
+    "data": "python tools/build_data.py",
+    "dist:win": "vite build && electron-builder --win portable zip --x64"
+  },
+  "build": {
+    "appId": "fr.campuscarloacutis.dreamlightwiki",
+    "productName": "Dreamlight Wiki",
+    "files": ["dist/**", "electron/**", "data/ddv.json", "package.json"],
+    "win": { "signAndEditExecutable": false },
+    "portable": { "artifactName": "DreamlightWiki-portable.exe" },
+    "directories": { "output": "release" }
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "electron": "^33.2.1",
+    "electron-builder": "^25.1.8",
+    "vite": "^5.4.11"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

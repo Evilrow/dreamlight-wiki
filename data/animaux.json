@@ -1,0 +1,1394 @@
+[
+  {
+    "nom": "Écureuil classique",
+    "espece": "Écureuil",
+    "biome": "Esplanade",
+    "nourriture": [
+      "Cacahuète (préférée)",
+      "Pommes et fruits cueillis sur arbres/buissons"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Lun, jeu, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Écureuil noir",
+    "espece": "Écureuil",
+    "biome": "Esplanade",
+    "nourriture": [
+      "Cacahuète (préférée)",
+      "Pommes et fruits cueillis sur arbres/buissons"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Mar, jeu, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Écureuil gris",
+    "espece": "Écureuil",
+    "biome": "Esplanade",
+    "nourriture": [
+      "Cacahuète (préférée)",
+      "Pommes et fruits cueillis sur arbres/buissons"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Mar, mer, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Écureuil roux",
+    "espece": "Écureuil",
+    "biome": "Esplanade",
+    "nourriture": [
+      "Cacahuète (préférée)",
+      "Pommes et fruits cueillis sur arbres/buissons"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Lun, mer, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Écureuil blanc",
+    "espece": "Écureuil",
+    "biome": "Esplanade",
+    "nourriture": [
+      "Cacahuète (préférée)",
+      "Pommes et fruits cueillis sur arbres/buissons"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Variante rare : dimanche uniquement (créneau horaire réduit selon les versions)"
+  },
+  {
+    "nom": "Écureuil des ombres",
+    "espece": "Écureuil",
+    "biome": "Esplanade",
+    "nourriture": [
+      "Cacahuète (préférée)",
+      "Pommes et fruits cueillis sur arbres/buissons"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Non sauvage : récompense de la quête d'Olaf « Le Grand Blizzard »"
+  },
+  {
+    "nom": "Écureuil indestructible",
+    "espece": "Écureuil",
+    "biome": "Esplanade",
+    "nourriture": [
+      "Cacahuète (préférée)",
+      "Pommes et fruits cueillis sur arbres/buissons"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Non sauvage : récompense du Chemin étoilé Pixar"
+  },
+  {
+    "nom": "Écureuil magique",
+    "espece": "Écureuil",
+    "biome": "Esplanade",
+    "nourriture": [
+      "Cacahuète (préférée)",
+      "Pommes et fruits cueillis sur arbres/buissons"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Non sauvage : récompense premium du Chemin étoilé Disney Parks"
+  },
+  {
+    "nom": "Écureuil rose chic",
+    "espece": "Écureuil",
+    "biome": "Esplanade",
+    "nourriture": [
+      "Cacahuète (préférée)",
+      "Pommes et fruits cueillis sur arbres/buissons"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Non sauvage : boutique premium"
+  },
+  {
+    "nom": "Lièvre classique",
+    "espece": "Lièvre",
+    "biome": "Prairie tranquille",
+    "nourriture": [
+      "Carotte (préférée)",
+      "Laitue",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "base",
+    "notes": "Lun, jeu, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Lièvre noir",
+    "espece": "Lièvre",
+    "biome": "Prairie tranquille",
+    "nourriture": [
+      "Carotte (préférée)",
+      "Laitue",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "base",
+    "notes": "Lun, mer, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Lièvre brun",
+    "espece": "Lièvre",
+    "biome": "Prairie tranquille",
+    "nourriture": [
+      "Carotte (préférée)",
+      "Laitue",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "base",
+    "notes": "Mar, mer, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Lièvre blanc",
+    "espece": "Lièvre",
+    "biome": "Prairie tranquille",
+    "nourriture": [
+      "Carotte (préférée)",
+      "Laitue",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "base",
+    "notes": "Mar, jeu, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Lièvre calicot",
+    "espece": "Lièvre",
+    "biome": "Prairie tranquille",
+    "nourriture": [
+      "Carotte (préférée)",
+      "Laitue",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "base",
+    "notes": "Variante rare : jeudi uniquement"
+  },
+  {
+    "nom": "Lièvre spécial Disney 100",
+    "espece": "Lièvre",
+    "biome": "Prairie tranquille",
+    "nourriture": [
+      "Carotte (préférée)",
+      "Laitue",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "base",
+    "notes": "Non sauvage : récompense premium du Chemin étoilé Disney 100"
+  },
+  {
+    "nom": "Lièvre de printemps bleu",
+    "espece": "Lièvre",
+    "biome": "Prairie tranquille",
+    "nourriture": [
+      "Carotte (préférée)",
+      "Laitue",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "base",
+    "notes": "Non sauvage : quête Rêvelumière de Pâques"
+  },
+  {
+    "nom": "Lièvre de printemps jaune",
+    "espece": "Lièvre",
+    "biome": "Prairie tranquille",
+    "nourriture": [
+      "Carotte (préférée)",
+      "Laitue",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "base",
+    "notes": "Non sauvage : quête Rêvelumière de Pâques"
+  },
+  {
+    "nom": "Lièvre de printemps rose",
+    "espece": "Lièvre",
+    "biome": "Prairie tranquille",
+    "nourriture": [
+      "Carotte (préférée)",
+      "Laitue",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "base",
+    "notes": "Non sauvage : quête Rêvelumière de Pâques"
+  },
+  {
+    "nom": "Lièvre rose chic",
+    "espece": "Lièvre",
+    "biome": "Prairie tranquille",
+    "nourriture": [
+      "Carotte (préférée)",
+      "Laitue",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "base",
+    "notes": "Non sauvage : boutique premium"
+  },
+  {
+    "nom": "Tortue de mer classique",
+    "espece": "Tortue de mer",
+    "biome": "Plage enchantée",
+    "nourriture": [
+      "Algue (préférée)",
+      "Fruits de mer"
+    ],
+    "apprivoisement": "Patience : elle rentre la tête dans sa carapace ; rester immobile jusqu'à ce qu'elle ressorte, puis la nourrir.",
+    "extension": "base",
+    "notes": "Lun, jeu, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Tortue de mer brune",
+    "espece": "Tortue de mer",
+    "biome": "Plage enchantée",
+    "nourriture": [
+      "Algue (préférée)",
+      "Fruits de mer"
+    ],
+    "apprivoisement": "Patience : elle rentre la tête dans sa carapace ; rester immobile jusqu'à ce qu'elle ressorte, puis la nourrir.",
+    "extension": "base",
+    "notes": "Lun, mer, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Tortue de mer blanche",
+    "espece": "Tortue de mer",
+    "biome": "Plage enchantée",
+    "nourriture": [
+      "Algue (préférée)",
+      "Fruits de mer"
+    ],
+    "apprivoisement": "Patience : elle rentre la tête dans sa carapace ; rester immobile jusqu'à ce qu'elle ressorte, puis la nourrir.",
+    "extension": "base",
+    "notes": "Mar, mer, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Tortue de mer violette",
+    "espece": "Tortue de mer",
+    "biome": "Plage enchantée",
+    "nourriture": [
+      "Algue (préférée)",
+      "Fruits de mer"
+    ],
+    "apprivoisement": "Patience : elle rentre la tête dans sa carapace ; rester immobile jusqu'à ce qu'elle ressorte, puis la nourrir.",
+    "extension": "base",
+    "notes": "Mar, jeu, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Tortue de mer noire",
+    "espece": "Tortue de mer",
+    "biome": "Plage enchantée",
+    "nourriture": [
+      "Algue (préférée)",
+      "Fruits de mer"
+    ],
+    "apprivoisement": "Patience : elle rentre la tête dans sa carapace ; rester immobile jusqu'à ce qu'elle ressorte, puis la nourrir.",
+    "extension": "base",
+    "notes": "Variante rare : lundi uniquement"
+  },
+  {
+    "nom": "Tortue de mer céleste",
+    "espece": "Tortue de mer",
+    "biome": "Plage enchantée",
+    "nourriture": [
+      "Algue (préférée)",
+      "Fruits de mer"
+    ],
+    "apprivoisement": "Patience : elle rentre la tête dans sa carapace ; rester immobile jusqu'à ce qu'elle ressorte, puis la nourrir.",
+    "extension": "base",
+    "notes": "Non sauvage : Pack Fondateur Deluxe"
+  },
+  {
+    "nom": "Tortue de mer rose chic",
+    "espece": "Tortue de mer",
+    "biome": "Plage enchantée",
+    "nourriture": [
+      "Algue (préférée)",
+      "Fruits de mer"
+    ],
+    "apprivoisement": "Patience : elle rentre la tête dans sa carapace ; rester immobile jusqu'à ce qu'elle ressorte, puis la nourrir.",
+    "extension": "base",
+    "notes": "Non sauvage : boutique premium"
+  },
+  {
+    "nom": "Crocodile classique",
+    "espece": "Crocodile",
+    "biome": "Bayou de la Confiance",
+    "nourriture": [
+      "Homard (préféré)",
+      "Calmar",
+      "Hareng",
+      "Poissons et fruits de mer de la Bayou de la Confiance"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il baisse la tête)",
+    "extension": "base",
+    "notes": "Lun, jeu, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Crocodile bleu",
+    "espece": "Crocodile",
+    "biome": "Bayou de la Confiance",
+    "nourriture": [
+      "Homard (préféré)",
+      "Calmar",
+      "Hareng",
+      "Poissons et fruits de mer de la Bayou de la Confiance"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il baisse la tête)",
+    "extension": "base",
+    "notes": "Lun, mer, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Crocodile doré",
+    "espece": "Crocodile",
+    "biome": "Bayou de la Confiance",
+    "nourriture": [
+      "Homard (préféré)",
+      "Calmar",
+      "Hareng",
+      "Poissons et fruits de mer de la Bayou de la Confiance"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il baisse la tête)",
+    "extension": "base",
+    "notes": "Mar, jeu, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Crocodile rouge",
+    "espece": "Crocodile",
+    "biome": "Bayou de la Confiance",
+    "nourriture": [
+      "Homard (préféré)",
+      "Calmar",
+      "Hareng",
+      "Poissons et fruits de mer de la Bayou de la Confiance"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il baisse la tête)",
+    "extension": "base",
+    "notes": "Mar, mer, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Crocodile blanc",
+    "espece": "Crocodile",
+    "biome": "Bayou de la Confiance",
+    "nourriture": [
+      "Homard (préféré)",
+      "Calmar",
+      "Hareng",
+      "Poissons et fruits de mer de la Bayou de la Confiance"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il baisse la tête)",
+    "extension": "base",
+    "notes": "Variante rare : dimanche uniquement"
+  },
+  {
+    "nom": "Crocodile rose",
+    "espece": "Crocodile",
+    "biome": "Bayou de la Confiance",
+    "nourriture": [
+      "Homard (préféré)",
+      "Calmar",
+      "Hareng",
+      "Poissons et fruits de mer de la Bayou de la Confiance"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il baisse la tête)",
+    "extension": "base",
+    "notes": "Variante rare : samedi uniquement"
+  },
+  {
+    "nom": "Crocodile choco",
+    "espece": "Crocodile",
+    "biome": "Bayou de la Confiance",
+    "nourriture": [
+      "Homard (préféré)",
+      "Calmar",
+      "Hareng",
+      "Poissons et fruits de mer de la Bayou de la Confiance"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il baisse la tête)",
+    "extension": "base",
+    "notes": "Non sauvage : bonus de bienvenue (achat la première semaine)"
+  },
+  {
+    "nom": "Crocodile rose chic",
+    "espece": "Crocodile",
+    "biome": "Bayou de la Confiance",
+    "nourriture": [
+      "Homard (préféré)",
+      "Calmar",
+      "Hareng",
+      "Poissons et fruits de mer de la Bayou de la Confiance"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il baisse la tête)",
+    "extension": "base",
+    "notes": "Non sauvage : boutique premium"
+  },
+  {
+    "nom": "Raton laveur classique",
+    "espece": "Raton laveur",
+    "biome": "Forêt du Courage",
+    "nourriture": [
+      "Myrtille (préférée)",
+      "Framboise",
+      "Groseille à maquereau",
+      "Fraise"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il est assis, s'arrêter quand il se dresse)",
+    "extension": "base",
+    "notes": "Lun, jeu, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Raton laveur blanc",
+    "espece": "Raton laveur",
+    "biome": "Forêt du Courage",
+    "nourriture": [
+      "Myrtille (préférée)",
+      "Framboise",
+      "Groseille à maquereau",
+      "Fraise"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il est assis, s'arrêter quand il se dresse)",
+    "extension": "base",
+    "notes": "Mar, jeu, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Raton laveur noir",
+    "espece": "Raton laveur",
+    "biome": "Forêt du Courage",
+    "nourriture": [
+      "Myrtille (préférée)",
+      "Framboise",
+      "Groseille à maquereau",
+      "Fraise"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il est assis, s'arrêter quand il se dresse)",
+    "extension": "base",
+    "notes": "Mar, mer, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Raton laveur roux",
+    "espece": "Raton laveur",
+    "biome": "Forêt du Courage",
+    "nourriture": [
+      "Myrtille (préférée)",
+      "Framboise",
+      "Groseille à maquereau",
+      "Fraise"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il est assis, s'arrêter quand il se dresse)",
+    "extension": "base",
+    "notes": "Lun, mer, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Raton laveur bleu",
+    "espece": "Raton laveur",
+    "biome": "Forêt du Courage",
+    "nourriture": [
+      "Myrtille (préférée)",
+      "Framboise",
+      "Groseille à maquereau",
+      "Fraise"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il est assis, s'arrêter quand il se dresse)",
+    "extension": "base",
+    "notes": "Variante rare : mercredi uniquement"
+  },
+  {
+    "nom": "Raton laveur mécanique",
+    "espece": "Raton laveur",
+    "biome": "Forêt du Courage",
+    "nourriture": [
+      "Myrtille (préférée)",
+      "Framboise",
+      "Groseille à maquereau",
+      "Fraise"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il est assis, s'arrêter quand il se dresse)",
+    "extension": "base",
+    "notes": "Non sauvage : Chemin étoilé saison 2 (Halloween 2022)"
+  },
+  {
+    "nom": "Raton laveur rose chic",
+    "espece": "Raton laveur",
+    "biome": "Forêt du Courage",
+    "nourriture": [
+      "Myrtille (préférée)",
+      "Framboise",
+      "Groseille à maquereau",
+      "Fraise"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il est assis, s'arrêter quand il se dresse)",
+    "extension": "base",
+    "notes": "Non sauvage : boutique premium"
+  },
+  {
+    "nom": "Passereau doré",
+    "espece": "Passereau",
+    "biome": "Plateau ensoleillé",
+    "nourriture": [
+      "Fleur de la couleur du passereau (préférée)",
+      "Toutes les fleurs"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Mar, jeu, ven toute la journée ; dim 0h-12h. Fleurs jaunes ou orange"
+  },
+  {
+    "nom": "Passereau émeraude",
+    "espece": "Passereau",
+    "biome": "Plateau ensoleillé",
+    "nourriture": [
+      "Fleur de la couleur du passereau (préférée)",
+      "Toutes les fleurs"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Mar, mer, sam toute la journée ; dim 12h-0h. Fleurs jaunes ou vertes"
+  },
+  {
+    "nom": "Passereau rouge",
+    "espece": "Passereau",
+    "biome": "Plateau ensoleillé",
+    "nourriture": [
+      "Fleur de la couleur du passereau (préférée)",
+      "Toutes les fleurs"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Lun, jeu, sam toute la journée ; dim 12h-0h. Fleurs rouges ou bleues"
+  },
+  {
+    "nom": "Passereau turquoise",
+    "espece": "Passereau",
+    "biome": "Plateau ensoleillé",
+    "nourriture": [
+      "Fleur de la couleur du passereau (préférée)",
+      "Toutes les fleurs"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Lun, mer, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Passereau orchidée",
+    "espece": "Passereau",
+    "biome": "Plateau ensoleillé",
+    "nourriture": [
+      "Fleur de la couleur du passereau (préférée)",
+      "Toutes les fleurs"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Variante rare : vendredi uniquement. Fleurs roses ou violettes"
+  },
+  {
+    "nom": "Passereau rose chic",
+    "espece": "Passereau",
+    "biome": "Plateau ensoleillé",
+    "nourriture": [
+      "Fleur de la couleur du passereau (préférée)",
+      "Toutes les fleurs"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "base",
+    "notes": "Non sauvage : boutique premium"
+  },
+  {
+    "nom": "Renard classique",
+    "espece": "Renard",
+    "biome": "Hauteurs glacées",
+    "nourriture": [
+      "Esturgeon blanc (préféré)",
+      "Saumon",
+      "Crabe",
+      "Poissons et fruits de mer des Hauteurs glacées"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir. Plutôt difficile.",
+    "extension": "base",
+    "notes": "Lun, mer, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Renard blanc",
+    "espece": "Renard",
+    "biome": "Hauteurs glacées",
+    "nourriture": [
+      "Esturgeon blanc (préféré)",
+      "Saumon",
+      "Crabe",
+      "Poissons et fruits de mer des Hauteurs glacées"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir. Plutôt difficile.",
+    "extension": "base",
+    "notes": "Lun, jeu, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Renard bleu",
+    "espece": "Renard",
+    "biome": "Hauteurs glacées",
+    "nourriture": [
+      "Esturgeon blanc (préféré)",
+      "Saumon",
+      "Crabe",
+      "Poissons et fruits de mer des Hauteurs glacées"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir. Plutôt difficile.",
+    "extension": "base",
+    "notes": "Mar, jeu, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Renard noir",
+    "espece": "Renard",
+    "biome": "Hauteurs glacées",
+    "nourriture": [
+      "Esturgeon blanc (préféré)",
+      "Saumon",
+      "Crabe",
+      "Poissons et fruits de mer des Hauteurs glacées"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir. Plutôt difficile.",
+    "extension": "base",
+    "notes": "Mar, mer, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Renard roux",
+    "espece": "Renard",
+    "biome": "Hauteurs glacées",
+    "nourriture": [
+      "Esturgeon blanc (préféré)",
+      "Saumon",
+      "Crabe",
+      "Poissons et fruits de mer des Hauteurs glacées"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir. Plutôt difficile.",
+    "extension": "base",
+    "notes": "Variante rare : samedi uniquement"
+  },
+  {
+    "nom": "Renard royal",
+    "espece": "Renard",
+    "biome": "Hauteurs glacées",
+    "nourriture": [
+      "Esturgeon blanc (préféré)",
+      "Saumon",
+      "Crabe",
+      "Poissons et fruits de mer des Hauteurs glacées"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir. Plutôt difficile.",
+    "extension": "base",
+    "notes": "Non sauvage : Pack Fondateur Ultime"
+  },
+  {
+    "nom": "Renard festif",
+    "espece": "Renard",
+    "biome": "Hauteurs glacées",
+    "nourriture": [
+      "Esturgeon blanc (préféré)",
+      "Saumon",
+      "Crabe",
+      "Poissons et fruits de mer des Hauteurs glacées"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir. Plutôt difficile.",
+    "extension": "base",
+    "notes": "Non sauvage : récompense premium du Chemin étoilé de Noël"
+  },
+  {
+    "nom": "Renard rose chic",
+    "espece": "Renard",
+    "biome": "Hauteurs glacées",
+    "nourriture": [
+      "Esturgeon blanc (préféré)",
+      "Saumon",
+      "Crabe",
+      "Poissons et fruits de mer des Hauteurs glacées"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir. Plutôt difficile.",
+    "extension": "base",
+    "notes": "Non sauvage : boutique premium"
+  },
+  {
+    "nom": "Renard arc-en-ciel",
+    "espece": "Renard",
+    "biome": "Hauteurs glacées",
+    "nourriture": [
+      "Esturgeon blanc (préféré)",
+      "Saumon",
+      "Crabe",
+      "Poissons et fruits de mer des Hauteurs glacées"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir. Plutôt difficile.",
+    "extension": "base",
+    "notes": "Non sauvage : potion arc-en-ciel"
+  },
+  {
+    "nom": "Corbeau classique",
+    "espece": "Corbeau",
+    "biome": "Terres oubliées",
+    "nourriture": [
+      "Plat 5 étoiles (préféré, ex. Hareng mariné d'Arendelle)",
+      "Plats 3 et 4 étoiles"
+    ],
+    "apprivoisement": "Patience : il tourne au-dessus de vous ; le nourrir quand il s'est posé.",
+    "extension": "base",
+    "notes": "Lun, jeu, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Corbeau blanc",
+    "espece": "Corbeau",
+    "biome": "Terres oubliées",
+    "nourriture": [
+      "Plat 5 étoiles (préféré, ex. Hareng mariné d'Arendelle)",
+      "Plats 3 et 4 étoiles"
+    ],
+    "apprivoisement": "Patience : il tourne au-dessus de vous ; le nourrir quand il s'est posé.",
+    "extension": "base",
+    "notes": "Mar, mer, sam toute la journée ; dim 12h-0h"
+  },
+  {
+    "nom": "Corbeau bleu",
+    "espece": "Corbeau",
+    "biome": "Terres oubliées",
+    "nourriture": [
+      "Plat 5 étoiles (préféré, ex. Hareng mariné d'Arendelle)",
+      "Plats 3 et 4 étoiles"
+    ],
+    "apprivoisement": "Patience : il tourne au-dessus de vous ; le nourrir quand il s'est posé.",
+    "extension": "base",
+    "notes": "Mar, jeu, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Corbeau rouge",
+    "espece": "Corbeau",
+    "biome": "Terres oubliées",
+    "nourriture": [
+      "Plat 5 étoiles (préféré, ex. Hareng mariné d'Arendelle)",
+      "Plats 3 et 4 étoiles"
+    ],
+    "apprivoisement": "Patience : il tourne au-dessus de vous ; le nourrir quand il s'est posé.",
+    "extension": "base",
+    "notes": "Lun, mer, ven toute la journée ; dim 0h-12h"
+  },
+  {
+    "nom": "Corbeau brun",
+    "espece": "Corbeau",
+    "biome": "Terres oubliées",
+    "nourriture": [
+      "Plat 5 étoiles (préféré, ex. Hareng mariné d'Arendelle)",
+      "Plats 3 et 4 étoiles"
+    ],
+    "apprivoisement": "Patience : il tourne au-dessus de vous ; le nourrir quand il s'est posé.",
+    "extension": "base",
+    "notes": "Variante rare : mardi uniquement"
+  },
+  {
+    "nom": "Corbeau rose chic",
+    "espece": "Corbeau",
+    "biome": "Terres oubliées",
+    "nourriture": [
+      "Plat 5 étoiles (préféré, ex. Hareng mariné d'Arendelle)",
+      "Plats 3 et 4 étoiles"
+    ],
+    "apprivoisement": "Patience : il tourne au-dessus de vous ; le nourrir quand il s'est posé.",
+    "extension": "base",
+    "notes": "Non sauvage : boutique premium"
+  },
+  {
+    "nom": "Singe classique",
+    "espece": "Singe",
+    "biome": "Port antique",
+    "nourriture": [
+      "Dessert 5 étoiles (préféré, ex. desserts à la banane)",
+      "Plats 3 étoiles ou plus"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "rift",
+    "notes": "Les Quais : mar, jeu, ven, sam, dim toute la journée"
+  },
+  {
+    "nom": "Singe beige",
+    "espece": "Singe",
+    "biome": "Port antique",
+    "nourriture": [
+      "Dessert 5 étoiles (préféré, ex. desserts à la banane)",
+      "Plats 3 étoiles ou plus"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "rift",
+    "notes": "Les Ruines : jeu et dim toute la journée ; ven 12h-0h"
+  },
+  {
+    "nom": "Singe noir et brun",
+    "espece": "Singe",
+    "biome": "Port antique",
+    "nourriture": [
+      "Dessert 5 étoiles (préféré, ex. desserts à la banane)",
+      "Plats 3 étoiles ou plus"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "rift",
+    "notes": "La Cour : sam toute la journée ; mar, jeu, dim 12h-0h"
+  },
+  {
+    "nom": "Singe roux et beige",
+    "espece": "Singe",
+    "biome": "Port antique",
+    "nourriture": [
+      "Dessert 5 étoiles (préféré, ex. desserts à la banane)",
+      "Plats 3 étoiles ou plus"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "rift",
+    "notes": "Le Belvédère : mar et sam toute la journée ; ven 0h-12h"
+  },
+  {
+    "nom": "Singe noir et gris",
+    "espece": "Singe",
+    "biome": "Port antique",
+    "nourriture": [
+      "Dessert 5 étoiles (préféré, ex. desserts à la banane)",
+      "Plats 3 étoiles ou plus"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "rift",
+    "notes": "Variante rare, Les Ruines : mardi 18h-0h"
+  },
+  {
+    "nom": "Singe magicien",
+    "espece": "Singe",
+    "biome": "Port antique",
+    "nourriture": [
+      "Dessert 5 étoiles (préféré, ex. desserts à la banane)",
+      "Plats 3 étoiles ou plus"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "rift",
+    "notes": "Non sauvage : bonus d'achat de l'extension la semaine de sortie"
+  },
+  {
+    "nom": "Cobra classique",
+    "espece": "Cobra",
+    "biome": "Dunes scintillantes",
+    "nourriture": [
+      "Œuf (préféré)",
+      "Produits laitiers et huile",
+      "Scorpion"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il s'abaisse)",
+    "extension": "rift",
+    "notes": "Les Plaines : mar, jeu, ven, sam, dim toute la journée"
+  },
+  {
+    "nom": "Cobra à pois roses",
+    "espece": "Cobra",
+    "biome": "Dunes scintillantes",
+    "nourriture": [
+      "Œuf (préféré)",
+      "Produits laitiers et huile",
+      "Scorpion"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il s'abaisse)",
+    "extension": "rift",
+    "notes": "L'Oasis : ven toute la journée ; jeu et dim 0h-12h"
+  },
+  {
+    "nom": "Cobra rayé bleu et rouge",
+    "espece": "Cobra",
+    "biome": "Dunes scintillantes",
+    "nourriture": [
+      "Œuf (préféré)",
+      "Produits laitiers et huile",
+      "Scorpion"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il s'abaisse)",
+    "extension": "rift",
+    "notes": "Le Désert : jeu et dim toute la journée ; mar et sam 12h-0h"
+  },
+  {
+    "nom": "Cobra rayé jaune et violet",
+    "espece": "Cobra",
+    "biome": "Dunes scintillantes",
+    "nourriture": [
+      "Œuf (préféré)",
+      "Produits laitiers et huile",
+      "Scorpion"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il s'abaisse)",
+    "extension": "rift",
+    "notes": "La Lisière : mar et sam toute la journée ; jeu et dim 12h-0h"
+  },
+  {
+    "nom": "Cobra rayé vert et blanc",
+    "espece": "Cobra",
+    "biome": "Dunes scintillantes",
+    "nourriture": [
+      "Œuf (préféré)",
+      "Produits laitiers et huile",
+      "Scorpion"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (avancer quand il s'abaisse)",
+    "extension": "rift",
+    "notes": "Variante rare, La Lisière : jeudi 6h-12h"
+  },
+  {
+    "nom": "Capybara classique",
+    "espece": "Capybara",
+    "biome": "Méandres sauvages",
+    "nourriture": [
+      "Chou (préféré)",
+      "Bambou",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "rift",
+    "notes": "Les Prés : lun, mar, jeu, ven, sam, dim toute la journée"
+  },
+  {
+    "nom": "Capybara à pois gris",
+    "espece": "Capybara",
+    "biome": "Méandres sauvages",
+    "nourriture": [
+      "Chou (préféré)",
+      "Bambou",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "rift",
+    "notes": "Le Lagon : ven et dim toute la journée ; lun et mar 12h-0h"
+  },
+  {
+    "nom": "Capybara noir et blanc",
+    "espece": "Capybara",
+    "biome": "Méandres sauvages",
+    "nourriture": [
+      "Chou (préféré)",
+      "Bambou",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "rift",
+    "notes": "La Promenade : mar et jeu toute la journée ; ven, sam, dim 12h-0h"
+  },
+  {
+    "nom": "Capybara rayé bleu",
+    "espece": "Capybara",
+    "biome": "Méandres sauvages",
+    "nourriture": [
+      "Chou (préféré)",
+      "Bambou",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "rift",
+    "notes": "Le Bosquet : jeu et sam toute la journée ; lun et mar 0h-12h"
+  },
+  {
+    "nom": "Capybara rayé rouge et blanc",
+    "espece": "Capybara",
+    "biome": "Méandres sauvages",
+    "nourriture": [
+      "Chou (préféré)",
+      "Bambou",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "rift",
+    "notes": "Variante rare, Le Lagon : samedi 12h-18h"
+  },
+  {
+    "nom": "Capybara fleuri",
+    "espece": "Capybara",
+    "biome": "Méandres sauvages",
+    "nourriture": [
+      "Chou (préféré)",
+      "Bambou",
+      "Légumes, céréales, épices, fruits issus de graines"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "rift",
+    "notes": "Non sauvage : bonus d'achat de l'Édition Fondateur"
+  },
+  {
+    "nom": "Hibou brun",
+    "espece": "Hibou",
+    "biome": "Reliure",
+    "nourriture": [
+      "Orge (préférée)",
+      "Blé",
+      "Riz",
+      "Céréales"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "vale",
+    "notes": "Bibliothèque du savoir : lun-ven toute la journée"
+  },
+  {
+    "nom": "Hibou sombre",
+    "espece": "Hibou",
+    "biome": "Reliure",
+    "nourriture": [
+      "Orge (préférée)",
+      "Blé",
+      "Riz",
+      "Céréales"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "vale",
+    "notes": "Bibliothèque du savoir : sam et dim toute la journée"
+  },
+  {
+    "nom": "Hibou lumineux",
+    "espece": "Hibou",
+    "biome": "Reliure",
+    "nourriture": [
+      "Orge (préférée)",
+      "Blé",
+      "Riz",
+      "Céréales"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "vale",
+    "notes": "Reliure : tous les jours 15h-20h"
+  },
+  {
+    "nom": "Hibou violet",
+    "espece": "Hibou",
+    "biome": "Reliure",
+    "nourriture": [
+      "Orge (préférée)",
+      "Blé",
+      "Riz",
+      "Céréales"
+    ],
+    "apprivoisement": "S'approcher et donner à manger (ne fuit pas).",
+    "extension": "vale",
+    "notes": "Reliure : tous les jours 0h-9h"
+  },
+  {
+    "nom": "Pégase bleu",
+    "espece": "Pégase",
+    "biome": "Mythopie",
+    "nourriture": [
+      "Plats végétariens 4-5 étoiles (préférés)",
+      "Plats végétariens 3 étoiles ou moins"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "vale",
+    "notes": "Plaines ardentes : lun, mar, mer toute la journée"
+  },
+  {
+    "nom": "Pégase jaune",
+    "espece": "Pégase",
+    "biome": "Mythopie",
+    "nourriture": [
+      "Plats végétariens 4-5 étoiles (préférés)",
+      "Plats végétariens 3 étoiles ou moins"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "vale",
+    "notes": "Ombre de la Statue : mar-sam 18h-0h"
+  },
+  {
+    "nom": "Pégase pêche",
+    "espece": "Pégase",
+    "biome": "Mythopie",
+    "nourriture": [
+      "Plats végétariens 4-5 étoiles (préférés)",
+      "Plats végétariens 3 étoiles ou moins"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "vale",
+    "notes": "Mont Olympe : tous les jours 6h-14h"
+  },
+  {
+    "nom": "Pégase rose",
+    "espece": "Pégase",
+    "biome": "Mythopie",
+    "nourriture": [
+      "Plats végétariens 4-5 étoiles (préférés)",
+      "Plats végétariens 3 étoiles ou moins"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "vale",
+    "notes": "Champs Élysées : jeu-dim toute la journée"
+  },
+  {
+    "nom": "Bébé pégase",
+    "espece": "Pégase",
+    "biome": "Mythopie",
+    "nourriture": [
+      "Plats végétariens 4-5 étoiles (préférés)",
+      "Plats végétariens 3 étoiles ou moins"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "vale",
+    "notes": "Non sauvage : bonus d'achat de l'Édition Magique de l'extension"
+  },
+  {
+    "nom": "Bébé dragon bleu",
+    "espece": "Bébé dragon",
+    "biome": "Comté des Contes",
+    "nourriture": [
+      "Magma (préféré)",
+      "Glace pure (préférée)",
+      "Opale",
+      "Gemmes"
+    ],
+    "apprivoisement": "Patience : rester immobile près de lui quelques secondes puis le nourrir.",
+    "extension": "vale",
+    "notes": "Bois sauvages : mar-ven toute la journée"
+  },
+  {
+    "nom": "Bébé dragon rouge",
+    "espece": "Bébé dragon",
+    "biome": "Comté des Contes",
+    "nourriture": [
+      "Magma (préféré)",
+      "Glace pure (préférée)",
+      "Opale",
+      "Gemmes"
+    ],
+    "apprivoisement": "Patience : rester immobile près de lui quelques secondes puis le nourrir.",
+    "extension": "vale",
+    "notes": "Chutes de la Théière : lun, sam, dim toute la journée"
+  },
+  {
+    "nom": "Bébé dragon vert",
+    "espece": "Bébé dragon",
+    "biome": "Comté des Contes",
+    "nourriture": [
+      "Magma (préféré)",
+      "Glace pure (préférée)",
+      "Opale",
+      "Gemmes"
+    ],
+    "apprivoisement": "Patience : rester immobile près de lui quelques secondes puis le nourrir.",
+    "extension": "vale",
+    "notes": "Forteresse tombée : lun-jeu et dim 10h-18h"
+  },
+  {
+    "nom": "Bébé dragon violet",
+    "espece": "Bébé dragon",
+    "biome": "Comté des Contes",
+    "nourriture": [
+      "Magma (préféré)",
+      "Glace pure (préférée)",
+      "Opale",
+      "Gemmes"
+    ],
+    "apprivoisement": "Patience : rester immobile près de lui quelques secondes puis le nourrir.",
+    "extension": "vale",
+    "notes": "Marais du Haricot magique : tous les jours 0h-12h"
+  },
+  {
+    "nom": "Oie blanche",
+    "espece": "Oie",
+    "biome": "Alpes enchantées",
+    "nourriture": [
+      "Groseilles (préférées)",
+      "Myrtille",
+      "Groseille à maquereau",
+      "Framboise",
+      "Fraise"
+    ],
+    "apprivoisement": "Patience : attendre qu'elle sorte la tête de sous son aile, puis lui offrir à manger.",
+    "extension": "ranch",
+    "notes": "Ranch de Florespérance : dim, lun, mer, ven toute la journée"
+  },
+  {
+    "nom": "Oie du Nord",
+    "espece": "Oie",
+    "biome": "Alpes enchantées",
+    "nourriture": [
+      "Groseilles (préférées)",
+      "Myrtille",
+      "Groseille à maquereau",
+      "Framboise",
+      "Fraise"
+    ],
+    "apprivoisement": "Patience : attendre qu'elle sorte la tête de sous son aile, puis lui offrir à manger.",
+    "extension": "ranch",
+    "notes": "Highlands du Ranch : mar, jeu, sam toute la journée"
+  },
+  {
+    "nom": "Oie noire",
+    "espece": "Oie",
+    "biome": "Alpes enchantées",
+    "nourriture": [
+      "Groseilles (préférées)",
+      "Myrtille",
+      "Groseille à maquereau",
+      "Framboise",
+      "Fraise"
+    ],
+    "apprivoisement": "Patience : attendre qu'elle sorte la tête de sous son aile, puis lui offrir à manger.",
+    "extension": "ranch",
+    "notes": "Sommet argenté : tous les jours 5h-11h"
+  },
+  {
+    "nom": "Oie bleue",
+    "espece": "Oie",
+    "biome": "Alpes enchantées",
+    "nourriture": [
+      "Groseilles (préférées)",
+      "Myrtille",
+      "Groseille à maquereau",
+      "Framboise",
+      "Fraise"
+    ],
+    "apprivoisement": "Patience : attendre qu'elle sorte la tête de sous son aile, puis lui offrir à manger.",
+    "extension": "ranch",
+    "notes": "Voie des souhaits : tous les jours 18h-20h"
+  },
+  {
+    "nom": "Oie dorée",
+    "espece": "Oie",
+    "biome": "Alpes enchantées",
+    "nourriture": [
+      "Groseilles (préférées)",
+      "Myrtille",
+      "Groseille à maquereau",
+      "Framboise",
+      "Fraise"
+    ],
+    "apprivoisement": "Patience : attendre qu'elle sorte la tête de sous son aile, puis lui offrir à manger.",
+    "extension": "ranch",
+    "notes": "Variante rare, Combe du fouilleur : tous les jours 7h-8h et 19h-20h"
+  },
+  {
+    "nom": "Mouffette",
+    "espece": "Mouffette",
+    "biome": "Ravin ravissant",
+    "nourriture": [
+      "Champignon bouton (préféré)",
+      "Pêche à aiguilles (préférée)",
+      "Fromage",
+      "Œuf",
+      "Fruits",
+      "Légumes"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (s'immobiliser quand elle lève la queue)",
+    "extension": "ranch",
+    "notes": "Rivière du podium : tous les jours 0h-12h"
+  },
+  {
+    "nom": "Mouffette blanche",
+    "espece": "Mouffette",
+    "biome": "Ravin ravissant",
+    "nourriture": [
+      "Champignon bouton (préféré)",
+      "Pêche à aiguilles (préférée)",
+      "Fromage",
+      "Œuf",
+      "Fruits",
+      "Légumes"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (s'immobiliser quand elle lève la queue)",
+    "extension": "ranch",
+    "notes": "Marécage de la mode : dim, mar, jeu, sam 12h-0h"
+  },
+  {
+    "nom": "Mouffette brune",
+    "espece": "Mouffette",
+    "biome": "Ravin ravissant",
+    "nourriture": [
+      "Champignon bouton (préféré)",
+      "Pêche à aiguilles (préférée)",
+      "Fromage",
+      "Œuf",
+      "Fruits",
+      "Légumes"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (s'immobiliser quand elle lève la queue)",
+    "extension": "ranch",
+    "notes": "Parcs du cachemire : dim, lun, mer, ven 12h-0h"
+  },
+  {
+    "nom": "Mouffette rayée",
+    "espece": "Mouffette",
+    "biome": "Ravin ravissant",
+    "nourriture": [
+      "Champignon bouton (préféré)",
+      "Pêche à aiguilles (préférée)",
+      "Fromage",
+      "Œuf",
+      "Fruits",
+      "Légumes"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (s'immobiliser quand elle lève la queue)",
+    "extension": "ranch",
+    "notes": "Plateau Haute Couture : uniquement par temps très nuageux ou pluvieux"
+  },
+  {
+    "nom": "Professeur Mouffette",
+    "espece": "Mouffette",
+    "biome": "Ravin ravissant",
+    "nourriture": [
+      "Champignon bouton (préféré)",
+      "Pêche à aiguilles (préférée)",
+      "Fromage",
+      "Œuf",
+      "Fruits",
+      "Légumes"
+    ],
+    "apprivoisement": "Feu rouge, feu vert : avancer quand il est détendu, s'immobiliser dès qu'il est sur ses gardes. (s'immobiliser quand elle lève la queue)",
+    "extension": "ranch",
+    "notes": "Non sauvage : obtenue via une quête de Cruella"
+  },
+  {
+    "nom": "Abeille",
+    "espece": "Abeille",
+    "biome": "Clairière féerique",
+    "nourriture": [
+      "Corail de miel (préféré)",
+      "Toutes les fleurs"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "ranch",
+    "notes": "Rivages de la coupe glacée : tous les jours 7h-20h"
+  },
+  {
+    "nom": "Abeille blanche",
+    "espece": "Abeille",
+    "biome": "Clairière féerique",
+    "nourriture": [
+      "Corail de miel (préféré)",
+      "Toutes les fleurs"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "ranch",
+    "notes": "Champs des Rêves bleus : tous les jours 20h-0h"
+  },
+  {
+    "nom": "Abeille bleue",
+    "espece": "Abeille",
+    "biome": "Clairière féerique",
+    "nourriture": [
+      "Corail de miel (préféré)",
+      "Toutes les fleurs"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "ranch",
+    "notes": "Chutes du Miel : tous les jours, par temps clair ou peu nuageux"
+  },
+  {
+    "nom": "Abeille rose",
+    "espece": "Abeille",
+    "biome": "Clairière féerique",
+    "nourriture": [
+      "Corail de miel (préféré)",
+      "Toutes les fleurs"
+    ],
+    "apprivoisement": "Le poursuivre : il fuit plusieurs fois (env. 3) avant de s'arrêter, puis le nourrir.",
+    "extension": "ranch",
+    "notes": "Plaine des fées : tous les jours, toute la journée"
+  }
+]
